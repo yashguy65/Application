@@ -19,6 +19,14 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.my_app.register" />
+        <activity android:name="com.example.my_app.Login_Activity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.my_app.MainActivity" />
         <activity android:name="com.example.my_app.Splash_Screen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,14 +34,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.my_app.Login_Activity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.Deafault" />
-            </intent-filter>
-        </activity>
-        <activity android:name="com.example.my_app.MainActivity" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

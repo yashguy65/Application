@@ -1129,6 +1129,7 @@ id ghost_view
 id gone
 id group_divider
 id groups
+id hello
 id home
 id homeAsUp
 id icon
@@ -1330,6 +1331,10 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_first
+layout fragment_fourth
+layout fragment_second
+layout fragment_third
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout nav_header_main
@@ -1403,6 +1408,7 @@ string character_counter_content_description
 string character_counter_pattern
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string menu_gallery
 string menu_home
