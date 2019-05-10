@@ -35,7 +35,6 @@ public class register extends AppCompatActivity implements View.OnClickListener 
         switch(v.getId()){
             case R.id.btnregister:
                 startActivity(new Intent(this, MainActivity.class));
-
                 String user = etUsername.getText().toString();
                 String pass = etPassword.getText().toString();
                 JSONObject obj = new JSONObject();
@@ -50,6 +49,7 @@ public class register extends AppCompatActivity implements View.OnClickListener 
                 System.out.println(pass+ "  " +user);
                 Log.d("create",user);
                 break;
+
         }}
     }
 

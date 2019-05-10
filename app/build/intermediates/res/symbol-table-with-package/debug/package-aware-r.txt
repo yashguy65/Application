@@ -841,6 +841,7 @@ dimen hint_pressed_alpha_material_light
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
+dimen margin_top
 dimen mtrl_bottomappbar_fabOffsetEndMode
 dimen mtrl_bottomappbar_fab_cradle_margin
 dimen mtrl_bottomappbar_fab_cradle_rounded_corner_radius
@@ -906,6 +907,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen single_item_margin
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
@@ -1097,6 +1099,7 @@ id contentPanel
 id coordinator
 id custom
 id customPanel
+id date
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet
@@ -1129,7 +1132,6 @@ id ghost_view
 id gone
 id group_divider
 id groups
-id hello
 id home
 id homeAsUp
 id icon
@@ -1138,6 +1140,7 @@ id ifRoom
 id image
 id imageView
 id info
+id instructor
 id invisible
 id italic
 id item_touch_helper_previous_elevation
@@ -1148,6 +1151,8 @@ id line1
 id line3
 id listMode
 id list_item
+id list_view
+id location
 id masked
 id media_actions
 id message
@@ -1311,12 +1316,12 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_dashboard
 layout activity_login_
 layout activity_main
 layout activity_register
 layout activity_splash__screen
 layout app_bar_main
-layout content_main
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1331,10 +1336,6 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
-layout fragment_first
-layout fragment_fourth
-layout fragment_second
-layout fragment_third
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout nav_header_main
@@ -1356,11 +1357,13 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout single_list_item
 layout support_simple_spinner_dropdown_item
 menu activity_main_drawer
 menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw addresslatlong
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

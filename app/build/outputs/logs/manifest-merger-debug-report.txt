@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
 MERGED from [com.android.support:design:28.0.0] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/571243d031a370ae0dde364753dbb31e/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/2f7447911c983dd4b29d63f530a8f50e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:28.0.0] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/a92203bea5bcb9a59b2d84a67932a1ff/AndroidManifest.xml:17:1-22:12
@@ -37,27 +37,27 @@ MERGED from [com.android.support:interpolator:28.0.0] /Users/aramamoo/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/0ed03be935750a76b8319a297f654fa8/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/3377126dfca80a88075d1793c3da0903/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/6f127ee9e18bd94fbb13d7ad2f994474/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:4:5-43
 		INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
 		INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:1-46:12
 		INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:6:5-31:19
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:6:5-44:19
 MERGED from [com.android.support:design:28.0.0] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/571243d031a370ae0dde364753dbb31e/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/571243d031a370ae0dde364753dbb31e/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aramamoo/.gradle/caches/transforms-2/files-2.1/2975345dd71d1bb82c4a10364fa68f1c/AndroidManifest.xml:9:5-20
@@ -83,37 +83,41 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/aramamoo/.gr
 	android:theme
 		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.my_app.register
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:14:9-73
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:14:9-64
 	android:name
 		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:14:19-61
 activity#com.example.my_app.Login_Activity
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:18:9-23:20
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:18:19-67
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:15:19-67
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:21:17-76
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:21:27-73
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:19:27-73
 activity#com.example.my_app.MainActivity
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:24:9-68
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:23:9-68
 	android:name
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:24:19-65
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:23:19-65
 activity#com.example.my_app.Splash_Screen
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:25:9-30:20
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:25:9-31:20
 	android:name
 		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:25:19-66
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:26:13-29:29
-category#android.intent.category.LAUNCHER
-ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:28:17-77
+activity#com.example.my_app.dashboard
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:33:9-41:20
 	android:name
-		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:33:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:34:13-38:29
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml:37:27-74
 uses-sdk
 INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/aramamoo/Downloads/My_App/app/src/main/AndroidManifest.xml
