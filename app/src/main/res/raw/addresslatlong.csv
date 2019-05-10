@@ -1,0 +1,969 @@
+Row_Id,Location,Date,Time,Fee,Instructor,Latitude,Longitude
+0,"Aspen Elementary  225 Broken Circle Dr., Evanston, WY, 82930",05/06/19,8:15 AM - 9:15 AM,$0.00,Jill Stout,41.25425328,-110.94803
+1,"Uinta Meadows Elementary  90 Cheyenne Dr., Evanston, WY, 82930",05/20/2019,8:00 AM - 9:00 AM,$0.00,Jill Stout,41.25662,-110.96255
+2,"Kaleva Norman Dickson School  4400 N High Bridge Rd, Brethren, MI, 49619",05/17/2019,1:20 PM - 2:40 PM,$0.00,Katina M. Robinson,44.30350993,-86.02123004
+3,"Arrowwood Elementary  10345 Arrowwood Dr, Highlands Ranch, CO, 80130",05/28/2019,10:00 AM - 11:00 AM,$0.00,Monica Hornick,39.52747,-104.93329
+4,"Casman Academy   225 9th St, Manistee, MI, 49660",05/31/2019,12:00 PM - 1:20 PM,$0.00,Katina M. Robinson,44.23714147,-86.31213244
+5,"Warren Hills Regional High School  41 Jackson Valley Rd, Washington, NJ, 07882",05/16/2019,12:45 PM - 1:45 PM,$0.00,Linda Brigode-Katstra,40.77374003,-74.98314006
+6,"Wilco Area Career Center Fire Science Program  500 Wilco Blvd., Romeoville, IL, 60440",05/07/19,8:00 AM - 10:00 AM,$0.00,MARK A. OGLESBY,41.60141842,-88.09381379
+7,"Greenbrier High School  72 Green Valley Drive  , Greenbrier, AR, 72058",05/22/2019,12:00 PM - 2:30 PM,$0.00,Clayton H. Goddard,35.22117006,-92.40318004
+8,"Carleton College  300 North College St, Northfield, MN, 55057",05/18/2019,1:00 PM - 3:00 PM,$0.00,Audrey Gao,44.46151415,-93.15532679
+9,"University of San Francisco  2130 Fulton Street, Room Locations Provided With Registration Confirmation, San Francisco, CA, 94117",05/22/2019,12:00 PM - 1:30 PM,$0.00,Octavia A. Mandel Struve,37.77512002,-122.45198
+10,"McCormack Building, 3rd floor, Rm 1407  100 Morrissey Blvd, Boston, MA, 02125",05/06/19,10:00 AM - 11:00 AM,$0.00,Manu Thakral,42.31650159,-71.04814981
+11,"NC State University Public Safety Building  2610 Wolf Village Way, Raleigh, NC, 27695",05/21/2019,2:00 PM - 3:00 PM,$0.00,Laura B. Hill,35.78594381,-78.68189432
+12,"NC State University Public Safety Building  2610 Wolf Village Way, Raleigh, NC, 27695",06/03/19,10:00 AM - 11:00 AM,$0.00,Laura B. Hill,35.78594381,-78.68189432
+13,"NC State University Public Safety Building  2610 Wolf Village Way, Raleigh, NC, 27695",06/05/19,1:00 PM - 2:00 PM,$0.00,Laura B. Hill,35.78594381,-78.68189432
+14,"NC State University Public Safety Building  2610 Wolf Village Way, Raleigh, NC, 27695",05/23/2019,1:00 PM - 2:00 PM,$0.00,Laura B. Hill,35.78594381,-78.68189432
+15,"NC State University Public Safety Building  2610 Wolf Village Way, Raleigh, NC, 27695",06/11/19,10:00 AM - 11:00 AM,$0.00,Laura B. Hill,35.78594381,-78.68189432
+16,"NC State University Public Safety Building  2610 Wolf Village Way, Raleigh, NC, 27695",06/13/2019,9:00 AM - 10:00 AM,$0.00,Laura B. Hill,35.78594381,-78.68189432
+17,"Lenoir Community College   231 NC Highway 58 South (Bullock Building 146), Kinston, NC, 28504",05/23/2019,9:00 AM - 11:00 AM,$0.00,Jeremy  R. Hill,35.22201868,-77.57607976
+18,"Penn College at Wellsboro  22 Walnut Street, Wellsboro, PA, 16901",06/04/19,6:00 PM - 7:30 PM,$0.00,Jason P. Zielewicz,41.74656578,-77.30002062
+19,"University of San Francisco  2130 Fulton Street, San Francisco, CA, 94117",05/05/19,9:00 AM - 10:30 AM,$0.00,Octavia A. Mandel Struve,37.77512002,-122.45198
+20,"EMS Academy  700 Camino de Salud, Room 1610, Albuquerque, NM, 87106",05/23/2019,10:00 AM - 12:00 PM,$0.00,Barbara Conley,35.08980569,-106.6207149
+21,"McCook Community College  1205 East 3rd St., McCook, NE, 69001",05/03/19,8:30 AM - 12:30 PM,$0.00,Marc A. Harpham,40.20881,-100.62143
+22,"McCook Community College  1205 East 3rd St., McCook, NE, 69001",05/17/2019,8:30 AM - 12:30 PM,$0.00,Marc A. Harpham,40.20881,-100.62143
+23,"McCook Community College  1205 East 3rd St., McCook, NE, 69001",06/07/19,8:30 AM - 12:30 PM,$0.00,Marc A. Harpham,40.20881,-100.62143
+24,"University of Texas Rio Grande Valley Environmental Health and Safety Building (EEHSB)   1201 West University Drive, EEHSB 104, Edinburg, TX, 78539",05/09/19,1:00 PM - 2:30 PM,$0.00,John Guglielmo,26.30348003,-98.17627996
+25,"University of Texas Rio Grande Valley Environmental Health and Safety Building (EEHSB)   1201 West University Drive, EEHSB 104, Edinburg, TX, 78539",05/09/19,3:00 PM - 4:30 PM,$0.00,John Guglielmo,26.30348003,-98.17627996
+26,"University of Texas Rio Grande Valley Environmental Health and Safety Building (EEHSB)   1201 West University Drive, EEHSB 104, Edinburg, TX, 78539",07/19/2019,10:00 AM - 11:30 AM,$0.00,John Guglielmo,26.30348003,-98.17627996
+27,"University of Texas Rio Grande Valley Environmental Health and Safety Building (EEHSB)   1201 West University Drive, EEHSB 104, Edinburg, TX, 78539",07/19/2019,1:00 PM - 2:30 PM,$0.00,John Guglielmo,26.30348003,-98.17627996
+28,"University of Texas Rio Grande Valley Environmental Health and Safety Building (EEHSB)   1201 West University Drive, EEHSB 104, Edinburg, TX, 78539",07/19/2019,3:00 PM - 4:30 PM,$0.00,John Guglielmo,26.30348003,-98.17627996
+29,"University of Texas Rio Grande Valley Environmental Health and Safety Building (EEHSB)   1201 West University Drive, EEHSB 104, Edinburg, TX, 78539",07/19/2019,8:00 AM - 9:30 AM,$0.00,John Guglielmo,26.30348003,-98.17627996
+30,"University of Texas Rio Grande Valley Main Building (BMAIN)  1 West University Blvd., BMAIN 2.420, Brownsville, TX, 78520",07/02/19,1:00 PM - 2:30 PM,$0.00,John Guglielmo,25.9064763,-97.4996224
+31,"University of Texas Rio Grande Valley Main Building (BMAIN)  1 West University Blvd., BMAIN 2.420, Brownsville, TX, 78520",07/02/19,10:00 AM - 11:30 AM,$0.00,John Guglielmo,25.9064763,-97.4996224
+32,"University of Texas Rio Grande Valley Harlingen Clinical Education Building (HCEBL)  2102 Treasure Hills Blvd., HCEBL 1.132, Harlingen, TX, 78550",06/24/2019,2:00 PM - 3:30 PM,$0.00,John Guglielmo,26.17442961,-97.66677967
+33,"WWAMI Classroom room #459, Health Sciences Building  1000 E. University Ave, Laramie, WY, 82070",05/20/2019,6:00 PM - 8:00 PM,$0.00,Ryan Winchell,41.31222873,-105.5827876
+34,"WWAMI Classroom room #459, Health Sciences Building  1000 E. University Ave, Laramie, WY, 82070",06/12/19,6:00 PM - 8:00 PM,$0.00,Ryan Winchell,41.31222873,-105.5827876
+35,"University of Utah Union Building  200 Central Campus Drive, Salt Lake City, UT, 84112",05/16/2019,3:00 PM - 4:30 PM,$0.00,Zach Robinson,40.76565753,-111.8447674
+36,"University of Utah Union Building  200 Central Campus Drive, Salt Lake City, UT, 84112",05/16/2019,8:30 AM - 10:30 AM,$0.00,Zach Robinson,40.76565753,-111.8447674
+37,"Leadmine United Methodist Church Fellowship Hall  5144 Horseshoe Run Road, Parsons, WV, 26287",05/23/2019,6:00 PM - 8:00 PM,$0.00,Joseph J. Strait,39.19359026,-79.58477922
+38,"St. David's Episcopal Church  1801 Camborne Rd, North Chesterfield, VA, 23236",05/11/19,1:30 PM - 3:30 PM,$0.00,Jessica A. Robison,37.47379074,-77.56501048
+39,"Irvington Presbyterian Church  25 N. Broadway, Irvington, NY, 10533",05/23/2019,7:00 PM - 9:00 PM,$0.00,Liz Poling-Hiraldo,41.04031365,-73.86454762
+40,"11 Wilbraham Road  59 Princeton St, Springfield, MA, 01109",05/24/2019,5:00 PM - 7:00 PM,$0.00,Gloria M. Wilson,42.11115469,-72.56386709
+41,"North American Rescue  35 Tedwall Ct, Greer, SC, 29650",05/16/2019,6:00 PM - 7:30 PM,$0.00,Chris Hoyne,34.86687776,-82.23937359
+42,"North American Rescue  35 Tedwall Ct, Greer, SC, 29650",05/18/2019,9:00 AM - 11:00 AM,$0.00,Chris Hoyne,34.86687776,-82.23937359
+43,"North American Rescue  35 Tedwall Ct, Greer, SC, 29650",05/18/2019,11:00 AM - 1:00 PM,$0.00,Chris Hoyne,34.86687776,-82.23937359
+44,"North American Rescue  35 Tedwall Ct, Greer, SC, 29650",05/23/2019,6:00 PM - 8:00 PM,$0.00,Chris Hoyne,34.86687776,-82.23937359
+45,"Lower King & Queen Fire - EMS  4764 York River Road , Shacklefords, VA, 23156",05/18/2019,9:00 AM - 10:30 AM,$25.00,Lisa R. Chandler,37.48960856,-76.70888298
+46,"5.11 Tactical Springfield       6575 Frontier Dr Ste T, Springfield, VA, 22150",05/26/2019,12:30 PM - 2:30 PM,$0.00,Anthony Emanuele,38.77418616,-77.1714953
+47,"SkyLab at UM  1210 Stanford Drive, Coral Gables, FL, 33146",05/04/19,10:00 AM - 12:00 PM,$0.00,Collin A. Lee,25.71818156,-80.27489872
+48,"Homestead Training Center  11700 SW 304th St, Homestead, FL, 33033",05/18/2019,9:00 AM - 5:00 PM,$150.00,Dr. Marco R. Torres,25.48524652,-80.37938577
+49,"North American Rescue  35 Tedwall Ct, Greer, FL, 29650",05/17/2019,3:00 PM - 4:30 PM,$0.00,Chris Hoyne,34.86687776,-82.23937359
+50,"SRT Supply, As Part of National Stop the Bleed Month 2019  2870 Scherer Dr #300, St Petersburg, FL, 33716",05/15/2019,6:00 PM - 8:00 PM,$0.00,Eric Soderlund,27.87419,-82.63936
+51,"PSA Training Academy  19401 S. Vermont Ave., Suite A205, Torrance, CA, 90502",05/18/2019,4:00 PM - 8:00 PM,$150.00,Shelby Benjamin,33.85476,-118.2905656
+52,"Ellicott Preschool  4036 Slice Dr, Colorado Springs, CO, 80922",05/04/19,9:00 AM - 12:00 PM,$0.00,Sheryl Hummel,38.89028167,-104.7032968
+53,"Cape Gun Works  96 Airport Road, Hyannis, MA, 02601",05/19/2019,1:00 PM - 3:30 PM,$35.00,Richard F. Todd,41.67229958,-70.29607155
+54,"SSD Tactical Training, Inc.  2400 Boston Rd., Wilbraham, MA, 01095",05/10/19,6:00 PM - 9:30 PM,$20.00,David A. Williams,42.14949643,-72.45102801
+55,"Ann Arbor Arms  45 Metty Dr, Ann Arbor, MI 48103, Ann Arbor, MI, 48103",05/11/19,12:00 PM - 1:30 PM,$40.00,Joshua Halka,42.29336167,-83.86728504
+56,"Ann Arbor Arms  45 Metty Dr, Ann Arbor, MI 48103, Ann Arbor, MI, 48103",05/11/19,2:00 PM - 3:30 PM,$40.00,Joshua Halka,42.29336167,-83.86728504
+57,"Ann Arbor Arms  45 Metty Dr, Ann Arbor, MI 48103, Ann Arbor, MI, 48103",05/11/19,4:00 PM - 5:30 PM,$40.00,Joshua Halka,42.29336167,-83.86728504
+58,"Dreaming Creek Brewery  109 E Irvine Street, Richmond, KY, 40475",05/23/2019,6:00 PM - 8:00 PM,$0.00,David Fifer,37.74797108,-84.29314949
+59,"Abbott EMS  2500 Abbott Pl., St. Louis, MO, 63143",05/29/2019,6:00 PM - 7:00 PM,$0.00,Rob D. McKay,38.61482577,-90.30542701
+60,"Abbott EMS  2500 Abbott Pl., St. Louis, MO, 63143",07/31/2019,6:00 PM - 7:00 PM,$0.00,Rob D. McKay,38.61482577,-90.30542701
+61,"Abbott EMS  2500 Abbott Pl., St. Louis, MO, 63143",09/25/2019,6:00 PM - 7:00 PM,$0.00,Rob D. McKay,38.61482577,-90.30542701
+62,"Abbott EMS  2500 Abbott Pl., St. Louis, MO, 63143",11/27/2019,6:00 PM - 7:00 PM,$0.00,Rob D. McKay,38.61482577,-90.30542701
+63,"Farm Credit East  7397 NY-80, Cooperstown, NY, 13326",05/23/2019,6:00 PM - 8:00 PM,$0.00,Becky-Ann Sears,42.81689905,-74.89679132
+64,"5.11 Tactical Carle Place  233 Glen Cove Rd, Carle Place, NY, 11514",05/11/19,10:30 AM - 12:30 PM,$0.00,Anthony Emanuele,40.74881863,-73.61779703
+65,"Huntingdon Pa  10527 Schoolhouse Hollow rd, Huntingdon, PA, 16652",05/19/2019,9:30 AM - 4:17 PM,$0.00,Robert C. Wilson,40.480282,-77.95712184
+66,"LOWER PROVIDENCE ROD AND GUN CLUB  2857 Egypt Road, Audubon, PA, 19407",05/04/19,8:00 AM - 10:00 AM,$0.00,DAVID N. MAZZA,40.1317615,-75.43898056
+67,"LOWER PROVIDENCE ROD AND GUN CLUB  2857 Egypt Road, Audubon, PA, 19407",06/22/2019,8:00 AM - 10:00 AM,$0.00,DAVID N. MAZZA,40.1317615,-75.43898056
+68,"LOWER PROVIDENCE ROD AND GUN CLUB  2857 Egypt Road, Audubon, PA, 19407",09/07/19,8:00 AM - 10:00 AM,$0.00,DAVID N. MAZZA,40.1317615,-75.43898056
+69,"LOWER PROVIDENCE ROD AND GUN CLUB  2857 Egypt Road, Audubon, PA, 19407",10/26/2019,8:00 AM - 10:00 AM,$0.00,DAVID N. MAZZA,40.1317615,-75.43898056
+70,"LOWER PROVIDENCE ROD AND GUN CLUB  2857 Egypt Road, Audubon, PA, 19407",11/02/19,8:00 AM - 10:00 AM,$0.00,DAVID N. MAZZA,40.1317615,-75.43898056
+71,"Thunderbolt, LLC.  494 Juniper Lane, Mount Vernon, OR, 97865",05/11/19,1:30 PM - 2:30 PM,$0.00,Rose Howe,44.42208154,-119.1140171
+72,"Thunderbolt, LLC.  494 Juniper Lane, Mount Vernon, OR, 97865",05/12/19,1:30 PM - 2:30 PM,$0.00,Rose Howe,44.42208154,-119.1140171
+73,"American Legion Gold Star Post  17 Cannon Avenue, Staten Island, NY, 10314",05/16/2019,6:00 PM - 10:00 PM,$25.00,ERIC ROMAN,40.59501726,-74.18552471
+74,"Victor Farmington Ambulance  1321 East Victor Road, Victor, NY, 14564",05/09/19,6:00 PM - 7:30 PM,$0.00,Rob L. Merkel,42.97267758,-77.38320249
+75,"Victor Farmington Ambulance  1321 East Victor Road, Victor, NY, 14564",05/09/19,8:00 PM - 9:30 PM,$0.00,Rob L. Merkel,42.97267758,-77.38320249
+76,"Ardsley Secor Volunteer Ambulance  19 American Legion Drive, ARDSLEY, NY, 10502",05/18/2019,10:30 AM - 12:30 PM,$0.00,Haitham  S. Rabadi,41.01191273,-73.84501418
+77,"Langhorne Rod and Gun Club  251 Stoneyford Rd, Holland, PA, 18966",05/18/2019,1:00 PM - 4:00 PM,$0.00,Barry J. Burton,40.19562098,-74.94655749
+78,"Fort Dix - Range 14  Building 9060 Cookstown Browns Mills Rd, Dix, NJ, 08640",07/20/2019,9:00 AM - 4:00 PM,$0.00,Pete Beringer,40.04366448,-74.56266832
+79,"Quakertown Fire Company  67 Quakertown Road, Pittstown, NJ, 08867",05/23/2019,6:30 PM - 8:30 PM,$0.00,Cein R. Strange,40.5757634,-74.95697852
+80,"Bernards High School  25 Olcott Ave, Bernardsville, NJ, 07924",05/21/2019,6:00 PM - 8:00 PM,$20.00,David J. Kotz,40.72241997,-74.56636997
+81,"Granville Rescue Squad  52 East Potter Ave, Granville, NY, 12832",05/16/2019,7:00 PM - 9:00 PM,$0.00,Paul Zinn,43.40097765,-73.25752339
+82,"Skenesborough Emergency Squad  57 Skenesborough Dr, Whitehall, NY, 12887",05/08/19,6:00 PM - 8:00 PM,$0.00,Paul Zinn,43.55304538,-73.40297012
+83,"CRMC  2823 Fresno Street, Fresno, CA, 93721",05/28/2019,5:30 PM - 6:30 PM,$0.00,Abigail Armack,36.74228061,-119.7835576
+84,"Scantic Valley YMCA (Wilbraham)  45 Post Office Park, Wilbraham, MA, 01095",05/23/2019,3:00 PM - 4:00 PM,$0.00,Lt. Matthew C. Sterling,42.15150947,-72.44199545
+85,"Scantic Valley YMCA (Wilbraham)  45 Post Office Park, Wilbraham, MA, 01095",05/23/2019,4:00 PM - 5:00 PM,$0.00,Lt. Matthew C. Sterling,42.15150947,-72.44199545
+86,"Scantic Valley YMCA (Wilbraham)  45 Post Office Park, Wilbraham, MA, 01095",05/23/2019,5:00 PM - 6:00 PM,$0.00,Lt. Matthew C. Sterling,42.15150947,-72.44199545
+87,"Agawam Public Library  750 Cooper St, Agawam, MA, 01001",05/23/2019,4:00 PM - 5:30 PM,$0.00,Katherine H. Walles,42.07274008,-72.64294
+88,"Richard Salter Storrs Library  693 Longmeadow Street, Longmeadow, MA, 01101",05/30/2019,6:00 PM - 8:00 PM,$0.00,Christopher M. Goshea,42.05241997,-72.58241997
+89,"Little River Church  259 Northport Ave, Belfast, ME, 04915",05/20/2019,7:00 PM - 9:00 PM,$20.00,eric kliem,44.39892019,-68.98731027
+90,"Center for Health Generations  57121 Sunnyslope Drive, Yucca Valley, CA, 92284",05/06/19,1:00 PM - 3:00 PM,$0.00,Gael Whetstone,34.12787254,-116.4173
+91,"American Legions   412 Camino Real , Redondo Beach, CA, 90277",05/18/2019,12:30 PM - 3:30 PM,$45.00,Ken Takahashi,33.8365351,-118.381607
+92,"JTED Law Enforcement Program at Camino Seco Campus  8727 E. 22nd Street, Tucson, AZ, 85712",05/11/19,8:00 AM - 10:00 AM,$0.00,Bruce A. Whitney,32.20648442,-110.8057612
+93,"Abrams Public Health Center  3950 South Country Club Road, Tucson, AZ, 85714",10/26/2019,9:00 AM - 11:30 AM,$0.00,Bruce A. Whitney,32.17618936,-110.926414
+94,"Abrams Public Health Center  3950 South Country Club Road, Tucson, AZ, 85714",09/28/2019,9:00 AM - 11:30 AM,$0.00,Bruce A. Whitney,32.17618936,-110.926414
+95,"Rozar Park   1060 Keith Drive, Perry, GA, 31069",05/23/2019,6:00 PM - 8:00 PM,$0.00,Kristal C. Smith,32.46234175,-83.70747126
+96,"Wheeler Elementary School  1818 S Avenida Del Sol, Tucson, AZ, 85710",05/08/19,1:15 PM - 2:15 PM,$0.00,Bruce A. Whitney,32.19952993,-110.84956
+97,"Roberts-Naylor K-8 School  1701 S Columbus Blvd, Tucson, AZ, 85711",05/15/2019,7:30 AM - 8:30 AM,$0.00,Bruce A. Whitney,32.20249597,-110.9008711
+98,"Thornydale Elementary School  7651 N Oldfather Drive, Tucson, AZ, 85741",07/31/2019,9:00 AM - 11:00 AM,$0.00,Bruce A. Whitney,32.34607,-111.0555101
+99,"Campbell Community Center  1 W Campbell Ave, Campbell, CA, 95008",06/06/19,7:00 PM - 8:30 PM,$0.00,Michael Grodin,37.28713,-121.94993
+100,"Grace Baptist Church Fellowship Hall  130 Ave G SE, Winter Haven, FL  33880, Winter Haven, FL, 33884",05/24/2019,10:00 AM - 11:30 AM,$0.00,Robert Dummett,28.01487653,-81.72524178
+101,"Grace Baptist Church Fellowship Hall  130 Ave G SE, Winter Haven, FL  33880, Winter Haven, FL, 33884",05/03/19,10:00 AM - 11:30 AM,$0.00,Robert Dummett,28.01487653,-81.72524178
+102,"Tucson East Stake Center   6901 East Kenyon Drive, Tucson, AZ, 85710",05/29/2019,11:00 AM - 1:00 PM,$0.00,Bruce A. Whitney,32.21347926,-110.8446544
+103,"Abrams Public Health Center  3950 South Country Club Road, Tucson, AZ, 85714",05/23/2019,9:00 AM - 11:30 AM,$0.00,Bruce A. Whitney,32.17618936,-110.926414
+104,"Calvary Tucson Church - West Campus  5170 South Julian Drive, Tucson, AZ, 85706",06/08/19,8:00 AM - 10:00 AM,$0.00,Bruce A. Whitney,32.15870924,-110.9200248
+105,"Mountain View High School  3901 West Linda Vista Blvd., Tucson, AZ, 85742",06/03/19,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.38020003,-111.0485401
+106,"Mountain View High School  3901 West Linda Vista Blvd., Tucson, AZ, 85742",06/04/19,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.38020003,-111.0485401
+107,"Mountain View High School  3901 West Linda Vista Blvd., Tucson, AZ, 85742",06/05/19,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.38020003,-111.0485401
+108,"Mountain View High School  3901 West Linda Vista Blvd., Tucson, AZ, 85742",06/06/19,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.38020003,-111.0485401
+109,"Mountain View High School  3901 West Linda Vista Blvd., Tucson, AZ, 85742",06/07/19,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.38020003,-111.0485401
+110,"Desert View High School   4101 East Valencia Road, Tucson, AZ, 85706",06/17/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.13540003,-110.90444
+111,"Desert View High School   4101 East Valencia Road, Tucson, AZ, 85706",06/18/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.13540003,-110.90444
+112,"Desert View High School   4101 East Valencia Road, Tucson, AZ, 85706",06/20/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.13540003,-110.90444
+113,"Desert View High School   4101 East Valencia Road, Tucson, AZ, 85706",06/21/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.13540003,-110.90444
+114,"Cienega High School  12775 East Mary Ann Cleveland Way, Vail, AZ, 85641",06/24/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.05554005,-110.7218899
+115,"Cienega High School  12775 East Mary Ann Cleveland Way, Vail, AZ, 85641",06/25/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.05554005,-110.7218899
+116,"Cienega High School  12775 East Mary Ann Cleveland Way, Vail, AZ, 85641",06/26/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.05554005,-110.7218899
+117,"Cienega High School  12775 East Mary Ann Cleveland Way, Vail, AZ, 85641",06/27/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.05554005,-110.7218899
+118,"Cienega High School  12775 East Mary Ann Cleveland Way, Vail, AZ, 85641",06/28/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.05554005,-110.7218899
+119,"Amphi Unified School District  200 East Roger Road, Tucson, AZ, 85705",05/13/2019,9:15 AM - 10:45 AM,$0.00,Bruce A. Whitney,32.27916048,-110.9686416
+120,"Desert View High School   4101 East Valencia Road, Tucson, AZ, 85701",06/19/2019,10:30 AM - 12:00 PM,$0.00,Bruce A. Whitney,32.13540003,-110.90444
+121,"Pima County Public Service Center  240 N. Stone Ave., Tucson, AZ, 85701",06/19/2019,9:45 AM - 11:00 AM,$0.00,Bruce A. Whitney,32.22538231,-110.9717212
+122,"Pima County Public Service Center  240 N. Stone Ave., Tucson, AZ, 85701",06/19/2019,1:45 PM - 3:15 PM,$0.00,Bruce A. Whitney,32.22538231,-110.9717212
+123,"Killingworth Ambulance Association  335 Route 81, Killingworth, CT, 06419",05/11/19,9:00 AM - 10:00 AM,$0.00,carolyn rambus,41.36962689,-72.56486809
+124,"Granby Ambulance Association  1 Pegville Rd, Granby, CT, 06035",05/14/2019,6:30 PM - 8:30 PM,$0.00,Katherine Coupe,41.97405287,-72.80851195
+125,"Granby Ambulance Association  1 Pegville Rd, Granby, CT, 06035",05/31/2019,9:00 AM - 11:00 AM,$0.00,Katherine Coupe,41.97405287,-72.80851195
+126,"Litchfield Community Center  421 Bantam Road, Litchfield, CT, 06759",06/17/2019,4:00 PM - 6:00 PM,$0.00,Sarah E. Curulla,41.73526133,-73.21573414
+127,"New Life Temple Fellowship  131 East Noble Ave, Williston, FL, 32696",05/04/19,10:00 AM - 12:00 PM,$0.00,James P. Bowlin,29.38765078,-82.4455373
+128,"Vesta Rescue Squad  2929 Jeb Stuart HWY, Meadows of Dan, VA, 24120",05/14/2019,6:00 PM - 7:00 PM,$0.00,Dustin Thomas,36.73584627,-80.40384735
+129,"Isle of Wight Vol. Rescue Squad  13080 Great Spring Road, Smithfield, VA, 23430",05/18/2019,11:30 AM - 3:00 PM,$0.00,Dwain L. Rodman,36.96089167,-76.63309058
+130,"Bennington Rescue  120 McKinley Street, Bennington, VT, 05201",05/23/2019,3:00 PM - 4:00 PM,$0.00,William Camarda,42.88271863,-73.20462858
+131,"Bennington Rescue  120 McKinley Street, Bennington, VT, 05201",05/23/2019,4:00 PM - 5:00 PM,$0.00,William Camarda,42.88271863,-73.20462858
+132,"Bennington Rescue  120 McKinley Street, Bennington, VT, 05201",05/23/2019,5:00 PM - 6:00 PM,$0.00,William Camarda,42.88271863,-73.20462858
+133,"Bennington Rescue  120 McKinley Street, Bennington, VT, 05201",05/23/2019,6:00 PM - 7:00 PM,$0.00,William Camarda,42.88271863,-73.20462858
+134,"Bennington Rescue  120 McKinley Street, Bennington, VT, 05201",05/23/2019,7:00 PM - 8:00 PM,$0.00,William Camarda,42.88271863,-73.20462858
+135,"Bennington Rescue  120 McKinley Street, Bennington, VT, 05201",05/23/2019,8:00 PM - 9:00 PM,$0.00,William Camarda,42.88271863,-73.20462858
+136,"Community Volunteer Fire Department   16003 Bellaire Bvd, Houston , TX, 77083",05/18/2019,10:00 AM - 12:00 PM,$0.00,Katherine L. Samuel,29.70070091,-95.66716566
+137,"University of Houston - Sugar Land   14000 University Blvd. , Sugar Land , TX, 77479",05/18/2019,2:00 PM - 4:00 PM,$0.00,Katherine L. Samuel,29.57675993,-95.64804007
+138,"Community Volunteer Fire Department   16003 Bellaire Blvd. , Houston, TX, 77083",05/18/2019,1:00 PM - 3:00 PM,$0.00,Katherine L. Samuel,29.70070091,-95.66716566
+139,"Clear Lake Shores Historic Clubhouse  931 Cedar, Clear Lake Shores, TX, 77565",05/23/2019,10:00 AM - 12:00 PM,$0.00,Tommy Duvall,29.54627385,-95.03224955
+140,"Clear Lake Shores Historic Clubhouse  931 Cedar, Clear Lake Shores, TX, 77565",05/23/2019,12:00 PM - 2:00 PM,$0.00,Tommy Duvall,29.54627385,-95.03224955
+141,"Clear Lake Shores Historic Clubhouse  931 Cedar, Clear Lake Shores, TX, 77565",05/23/2019,2:00 PM - 4:00 PM,$0.00,Tommy Duvall,29.54627385,-95.03224955
+142,"Arlington Sportsmans Club  11500 County Rd 525, Mansfield, TX, 76063",05/26/2019,10:00 AM - 12:00 PM,$0.00,Robert Klenka,32.53839527,-97.17500014
+143,"Waco Range  Waco Range, Waco, TX, 76633",05/18/2019,10:00 AM - 5:00 PM,$40.00,Robert Klenka,31.60858617,-97.29254427
+144,"The Academy Dallas  8113 Ridgepoint Dr #204, Irving, TX, 75063",05/11/19,9:00 AM - 11:00 AM,$0.00,Robert Klenka,32.9152847,-96.98560871
+145,"Clinton First Aid & Rescue Squad  48 Old Highway 22, Clinton, NJ, 08809",05/08/19,7:00 PM - 9:00 PM,$0.00,H Bucky Buchanan,40.63770055,-74.90549134
+146,"Cary Area EMS  107 Medcon Ct, Cary, NC, 27511",05/30/2019,6:30 PM - 7:30 PM,$0.00,Chasidy Kearns,35.77348056,-78.78082613
+147,"Cary Area EMS  107 Medcon Ct, Cary, NC, 27511",06/08/19,8:00 AM - 9:00 AM,$0.00,Chasidy Kearns,35.77348056,-78.78082613
+148,"Cary Area EMS  107 Medcon Ct, Cary, NC, 27511",08/22/2019,6:30 PM - 7:30 PM,$0.00,Chasidy Kearns,35.77348056,-78.78082613
+149,"(GVEC) Guadalupe Valley Electric Cooperative  825 East Sarah Dewitt, Gonzales, TX, 78629",05/07/19,8:30 AM - 11:30 AM,$0.00,Allen C. Linebrink,29.5036272,-97.4500881
+150,"(GVEC) Guadalupe Valley Electric Cooperative  825 East Sarah Dewitt, Gonzales, TX, 78629",05/08/19,8:30 AM - 11:30 AM,$0.00,Allen C. Linebrink,29.5036272,-97.4500881
+151,"(GVEC) Guadalupe Valley Electric Cooperative  825 East Sarah Dewitt, Gonzales, TX, 78629",05/21/2019,8:30 AM - 11:30 AM,$0.00,Allen C. Linebrink,29.5036272,-97.4500881
+152,"(GVEC) Guadalupe Valley Electric Cooperative  825 East Sarah Dewitt, Gonzales, TX, 78629",05/22/2019,8:30 AM - 11:30 AM,$0.00,Allen C. Linebrink,29.5036272,-97.4500881
+153,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/17/2019,6:00 PM - 8:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+154,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/18/2019,9:00 AM - 11:00 AM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+155,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/19/2019,2:00 PM - 4:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+156,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/26/2019,2:00 PM - 4:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+157,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/25/2019,9:00 AM - 11:00 AM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+158,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/27/2019,6:00 PM - 8:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+159,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/28/2019,6:00 PM - 8:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+160,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/30/2019,6:00 PM - 8:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+161,"SMHCEMS Admin Building  2061 Clovis R Barker Rd, BLDG 10, San Marcos, TX, 78666",05/31/2019,6:00 PM - 8:00 PM,$0.00,Katherine Contreras,29.83314245,-97.94406088
+162,"City Hall, Shoreline, Washington  17500 Midvale Ave N, Shoreline, WA, 98133",10/29/2019,10:00 AM - 11:30 AM,$0.00,Mary J. Kintner,47.75617576,-122.3442656
+163,"All Saints Hospital  3801 Spring St, Racine, WI, 53405",05/15/2019,6:00 PM - 7:00 PM,$0.00,Daniel Bond,42.73366315,-87.82578545
+164,"HDH-F  1602 Skipwith Road, Richmond, VA, 23229",05/09/19,6:00 PM - 8:00 PM,$0.00,Melissa L. Ferguson,37.60368507,-77.53778671
+165,"Henrico Doctors Hospital  1602 Skipwith Road, Richmond, VA, 23229",05/22/2019,6:00 PM - 8:00 PM,$0.00,Melissa L. Ferguson,37.60385997,-77.54088995
+166,"HDH-F  1602 Skipwith Road, Richmond, VA, 23229",06/05/19,10:00 AM - 12:00 PM,$0.00,Melissa L. Ferguson,37.60368507,-77.53778671
+167,"Froedtert South- St.Catherine's Medical Center  9555 76th Street, Pleasant Prairie, WI, 53158",05/08/19,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.56531003,-87.92431994
+168,"Froedtert South- Kenosha Medical Center  6308 8th Ave, Kenosha, WI, 53143",06/12/19,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.57755996,-87.81974001
+169,"Froedtert South- St.Catherine's Medical Center  9555 76th Street, Pleasant Prairie, WI, 53158",07/10/19,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.56531003,-87.92431994
+170,"Froedtert South- Kenosha Medical Center  6308 8th Ave, Kenosha, WI, 53143",08/14/2019,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.57755996,-87.81974001
+171,"Froedtert South- St.Catherine's Medical Center  9555 76th Street, Pleasant Prairie, WI, 53158",09/11/19,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.56531003,-87.92431994
+172,"Froedtert South- Kenosha Medical Center  6308 8th Ave, Kenosha, WI, 53143",10/09/19,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.57755996,-87.81974001
+173,"Froedtert South- St.Catherine's Medical Center  9555 76th Street, Pleasant Prairie, WI, 53158",11/13/2019,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.56531003,-87.92431994
+174,"Froedtert South- Kenosha Medical Center  6308 8th Ave, Kenosha, WI, 53143",12/11/19,6:00 PM - 7:30 PM,$0.00,Dave Piccolo,42.57755996,-87.81974001
+175,"Rutland Regional Medical Center Leahy Center  160 Allen St , Rutland, VT, 05701",05/23/2019,8:00 AM - 9:30 AM,$0.00,Sheena Daniell,43.59884999,-72.95545
+176,"Rutland Regional Medical Center Leahy Center Conf Room D  160 Allen St, Rutland, VT, 05701",05/23/2019,4:30 PM - 6:00 PM,$0.00,Sheena Daniell,43.59884999,-72.95545
+177,"Rutland Regional Medical Center Leahy Center  160 Allen St, Rutland, VT, 05701",05/23/2019,1:00 PM - 2:30 PM,$0.00,Sheena Daniell,43.59884999,-72.95545
+178,"University of Vermont Medical Center, Davis Auditorium  111 Colchester Avenue, Burlington, VT, 05401",05/06/19,6:00 PM - 7:00 PM,$0.00,Christine Dillon,44.47892998,-73.19386993
+179,"University of Vermont Medical Center, Davis Auditorium  111 Colchester Avenue, Burlington, VT, 05401",05/13/2019,12:00 PM - 1:00 PM,$0.00,Christine Dillon,44.47892998,-73.19386993
+180,"University of Vermont Medical Center, Davis Auditorium  111 Colchester Avenue, Burlington, VT, 05401",06/10/19,12:00 PM - 1:00 PM,$0.00,Christine Dillon,44.47892998,-73.19386993
+181,"Ascension Saint Michael's Hospital  900 Illinois Ave, Stevens Point, WI, 54481",05/16/2019,5:00 PM - 6:00 PM,$0.00,Jenny Blenker,44.52727999,-89.56705996
+182,"Ellamore Volunteer Fire Department  Ellamore, Ellamore, WV, 26267",05/22/2019,7:00 PM - 8:30 PM,$0.00,Linda  S. Smith,38.9661579,-80.1125709
+183,"WVU Robert C. Byrd Health Science Center on the campus of Berkeley Medical Center  2500 Foundation Way, Martinsburg, WV, 25401",05/23/2019,6:00 PM - 7:30 PM,$0.00,Donald L. Grubb III,39.47397887,-77.98123504
+184,"Banks District Volunteer Fire Department  Rock Cave, Rock Cave, WV, 26234",05/13/2019,6:00 PM - 7:30 PM,$0.00,Linda  S. Smith,38.8378194,-80.3407221
+185,"Tri-State Fire Academy  4200 Ohio River Road, Huntington, WV, 25702",05/04/19,10:00 AM - 2:00 PM,$0.00,Jennifer Murray,38.43200008,-82.36804869
+186,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",05/14/2019,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+187,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",06/11/19,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+188,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",07/09/19,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+189,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",08/13/2019,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+190,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",09/10/19,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+191,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",10/08/19,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+192,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",11/12/19,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+193,"HCA Conroe  504 Medical Center Blvd, Conroe , TX, 77304",12/10/19,6:00 PM - 8:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+194,"Utah Valley Hospital Sorenson Tower   395 Bulldog Blvd. Education center, Room #3, Provo, UT, 84604",08/06/19,6:00 PM - 7:00 PM,$0.00,Tina A. Dewey,40.2563768,-111.6620364
+195,"Utah Valley Hospital Sorenson Tower   395 Bulldog Blvd. Education center, Room #3, Provo, UT, 84604",10/01/19,6:00 PM - 7:00 PM,$0.00,Tina A. Dewey,40.2563768,-111.6620364
+196,"Utah Valley Hospital Sorenson Tower   395 Bulldog Blvd. Education center, Room #3, Provo, UT, 84604",12/03/19,6:00 PM - 7:00 PM,$0.00,Tina A. Dewey,40.2563768,-111.6620364
+197,"Intermountain Medical Center  5121 South Cottonwood Street, Doty Education Cneter, Building 6, Classrooms 6-8, Murray, UT, 84107",05/07/19,11:00 AM - 12:00 PM,$0.00,Bradley J. Morris,40.66030186,-111.8937248
+198,"Intermountain Medical Center  5121 Cottonwood Street, Murray, Utah 84107, Doty Education Building, West Auditorium, Murray, UT, 84107",05/21/2019,7:00 PM - 8:00 PM,$0.00,Bradley J. Morris,40.66064,-111.89141
+199,"Utah Valley Hospital Sorenson Tower   395 Bulldog Blvd. Education center, Room #3, Provo, UT, 84604",05/04/19,10:00 AM - 11:00 AM,$0.00,Tina A. Dewey,40.2563768,-111.6620364
+200,"Wyoming Medical Center   1233 E. Second St., Casper, WY, 82601",05/23/2019,12:00 PM - 2:00 PM,$0.00,Carolyn  E. Hacking ,42.84829996,-106.3090501
+201,"Wyoming Medical Center   1233 E. Second St., Casper, WY, 82601",05/23/2019,5:30 PM - 7:20 PM,$0.00,Carolyn  E. Hacking ,42.84829996,-106.3090501
+202,"F- M Ambulance  2215 18th St. S, Fargo, ND, 58103",05/31/2019,3:00 PM - 5:00 PM,$0.00,Robert J. Seifert,46.84531844,-96.81790057
+203,"Methodist Corporate Location  825 S. 169th St, Omaha, NE, 68118",05/23/2019,11:30 AM - 1:00 PM,$0.00,Paula M. Smith,41.24942485,-96.17929202
+204,"Hightstown Memorial Branch Library  114 Franklin St, Hightstown, NJ, 08520",06/27/2019,6:30 PM - 8:00 PM,$0.00,Nancy M. Distelcamp,40.27040771,-74.52185498
+205,"Newton Medical Center (Romano Conference Center)  175 High Street, Newton, NJ, 07860",05/22/2019,7:00 PM - 10:00 PM,$0.00,Renay Durling-Grover,41.05560747,-74.76507527
+206,"Health Finders  2000 Coastal Grand Cir # 520, Myrtle Beach, SC, 29577",05/16/2019,11:00 AM - 12:00 PM,$0.00,LAURA G. LUNSFORD,33.70063101,-78.92209228
+207,"Cooper Medical School of Rowan University  401 S Broadway, Camden, NJ, 08103",05/22/2019,4:30 PM - 6:00 PM,$0.00,Stacey A. Staman,39.94071392,-75.11932684
+208,"Tilton Fitness   1420 Route 36, Hazlet, NJ, 07730",07/11/19,6:00 PM - 7:30 PM,$0.00,Tracy A. Nerney,40.42898324,-74.1896986
+209,"Logan Township Library  498 Beckett Rd, Swedesboro, NJ 08085, Logan Twp, NJ, 08085",05/16/2019,7:00 PM - 8:00 PM,$0.00,Brian Collins,39.75681751,-75.35689902
+210,"Capital Health - Hamilton  1445 Whitehorse - Mercerville Rd - conference rooms 1,2 & 3, Hamilton, NJ, 08619",05/22/2019,7:30 PM - 9:00 PM,$0.00,Nancy M. Distelcamp,40.21486656,-74.69065567
+211,"Carnegie Center  101 Carnegie Center - Lower Level - Einstein Room, Princeton, NJ, 08540",05/17/2019,12:00 PM - 1:30 PM,$0.00,Nancy M. Distelcamp,40.32349331,-74.64672519
+212,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",05/20/2019,6:00 PM - 7:30 PM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+213,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",06/22/2019,10:00 AM - 11:30 AM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+214,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",07/29/2019,2:00 PM - 3:30 PM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+215,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",08/26/2019,6:00 PM - 7:30 PM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+216,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",09/21/2019,10:00 AM - 11:30 PM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+217,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",10/28/2019,2:00 PM - 3:30 PM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+218,"Hillsborough Campus  430 Waterstone Drive, Hillsborough, NC, 27278",11/18/2019,6:00 PM - 7:30 PM,$0.00,Tracey L. Farmer,36.03929445,-79.0916675
+219,"Texas Health Plano Tower C Lobby  6200 West Parker Road, plano, TX, 75093",05/18/2019,9:00 AM - 10:30 AM,$0.00,Katherine Wright,33.04511054,-96.83702204
+220,"Texas Health Plano  6200 West Parker Road Tower C Main Lobby, Plano, TX, 75093",05/18/2019,10:45 AM - 12:15 PM,$0.00,Katherine Wright,33.04511054,-96.83702204
+221,"Texas Health Presbyterian Hospital Dallas  8200 Walnut Hill Lane (Beasley Conference Room), Dallas, TX, 75231",05/23/2019,11:30 AM - 12:45 PM,$0.00,Catherine L. Glenn,32.88197997,-96.76281003
+222,"Classroom 1, just inside main entrance  2400 Round Rock Avenue , Round Rock, TX, 78681",05/11/19,9:30 AM - 12:00 PM,$0.00,Kristen L. Hullum,30.50882942,-97.7138451
+223,"Sanford Aberdeen Medical Center  2905 3rd Ave SE, Aberdeen, SD, 57401",05/06/19,12:00 PM - 1:00 PM,$0.00,Pamela A. Fiechtner,45.46216952,-98.44647228
+224,"Sanford Aberdeen Medical Center  2905 3rd Ave SE, Aberdeen, SD, 57401",05/20/2019,12:00 PM - 1:00 PM,$0.00,Pamela A. Fiechtner,45.46216952,-98.44647228
+225,"Vanderbilt One Hundred Oaks  719 Thompson Lane, Nashville, TN., Nashville, TN, 37204",05/23/2019,10:00 AM - 11:00 AM,$0.00,Cathy Wilson,36.11214055,-86.76579575
+226,"Vanderbilt One Hundred Oaks  719 Thompson Lane, Nashville, TN., Nashville, TN, 37204",05/23/2019,11:00 AM - 12:00 PM,$0.00,Cathy Wilson,36.11214055,-86.76579575
+227,"Vanderbilt One Hundred Oaks  719 Thompson Lane, Nashville, TN., Nashville, TN, 37204",05/23/2019,12:00 PM - 1:00 PM,$0.00,Cathy Wilson,36.11214055,-86.76579575
+228,"Vanderbilt One Hundred Oaks  719 Thompson Lane, Nashville, TN., Nashville, TN, 37204",05/23/2019,1:00 PM - 2:00 PM,$0.00,Cathy Wilson,36.11214055,-86.76579575
+229,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,7:00 AM - 8:00 AM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+230,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,8:00 AM - 9:00 AM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+231,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,9:00 AM - 10:00 AM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+232,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,10:00 AM - 11:00 AM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+233,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,11:00 AM - 12:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+234,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,12:00 PM - 1:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+235,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,1:00 PM - 2:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+236,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,2:00 PM - 3:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+237,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,3:00 PM - 4:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+238,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,4:00 PM - 5:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+239,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,5:00 PM - 6:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+240,"TriStar Skyline Medical Center  3443 Dickerson Pike, Nashville, TN, 37207",05/23/2019,6:00 PM - 7:00 PM,$0.00,kelsey  j. palladino,36.24484777,-86.75642188
+241,"Vanderbilt Medical Arts Bldg  1211 21st Ave S, Suite 336, Medical Arts Bldg, Nashville, TN, 37212",05/14/2019,9:00 AM - 10:00 AM,$0.00,Cathy Wilson,36.14082178,-86.80040407
+242,"Vanderbilt Medical Arts Bldg  1211 21st Ave S, Suite 336, Medical Arts Bldg, Nashville, TN, 37212",05/14/2019,10:00 AM - 11:00 AM,$0.00,Cathy Wilson,36.14082178,-86.80040407
+243,"Vanderbilt One Hundred Oaks  719 Thompson Lane, Nashville, TN., Nashville, TN, 37204",05/23/2019,2:00 PM - 3:00 PM,$0.00,Cathy Wilson,36.11214055,-86.76579575
+244,"University of Tennessee Medical Center  1924 Alcoa Highway, Knoxville, TN, 37920",05/21/2019,6:00 PM - 7:30 PM,$0.00,Deborah A. Tuggle,35.94016,-83.94502
+245,"University of Tennessee Medical Center  1924 Alcoa Highway, Knoxville, TN, 37920",06/18/2019,6:00 PM - 7:30 PM,$0.00,Deborah A. Tuggle,35.94016,-83.94502
+246,"Farragut Town Hall  11408 Municipal Center Drive, Farragut, TN, 37934",09/19/2019,6:00 PM - 7:30 PM,$0.00,Deborah A. Tuggle,35.87886,-84.16082998
+247,"HCA Conroe Conference Center  504 Medical Center Blvd, Conroe, TX, 77304",05/10/19,1:00 PM - 3:00 PM,$0.00,Kris Parker,30.28430669,-95.46637337
+248,"HCA Conroe Conference Center  504 Medical Center Blvd, Conroe , TX, 77304",05/10/19,9:00 AM - 11:00 AM,$0.00,Kris Parker,30.28430669,-95.46637337
+249,"Texas Department of Public Safety (DPS) Region 2 Headquarters  12230 West Road, Jersey Village, TX, 77065",05/18/2019,8:00 AM - 10:00 AM,$0.00,Sarah B. Abbott,29.90266435,-95.59725534
+250,"Texas Department of Public Safety (DPS) Region 2 Headquarters  12230 West Road, Jersey Village, TX, 77065",05/18/2019,10:30 AM - 12:30 PM,$0.00,Sarah B. Abbott,29.90266435,-95.59725534
+251,"St. Mark's Hospital-Women's Pavilion-Lamb Auditorium (2nd Floor of Women's Pavilion)  1140 East 3900 South, Salt Lake City, UT, 84124",11/19/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.68702752,-111.8578005
+252,"St. Mark's Hospital-Women's Pavilion-Lamb Auditorium (2nd Floor of Women's Pavilion)  1140 East 3900 South, Salt Lake City, UT, 84124",10/15/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.68702752,-111.8578005
+253,"St. Mark's Hospital-Women's Pavilion-Lamb Auditorium (2nd Floor of Women's Pavilion)  1140 East 3900 South, Salt Lake City, UT, 84124",09/17/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.68702752,-111.8578005
+254,"St. Mark's Hospital-Women's Pavilion-Lamb Auditorium (2nd Floor of Women's Pavilion)  1140 East 3900 South, Salt Lake City, UT, 84124",08/20/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.68702752,-111.8578005
+255,"St. Mark's Hospital-Women's Pavilion-Lamb Auditorium (2nd Floor of Women's Pavilion)  1140 East 3900 South, Salt Lake City, UT, 84124",07/16/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.68702752,-111.8578005
+256,"St. Mark's Hospital-Women's Pavilion-Lamb Auditorium (2nd Floor of Women's Pavilion)  1140 East 3900 South, Salt Lake City, UT, 84124",06/18/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.68702752,-111.8578005
+257,"St. Mark's Hospital-Classroom 1J (By Emergency Room Entrance)  1200 East 3900 South, Salt Lake City, UT, 84124",05/14/2019,6:00 PM - 7:15 PM,$0.00,Brittni Clark,40.6869869,-111.8567421
+258,"Brigham City Community Hospital  950 South Medical Drive, Brigham City, UT, 84302",05/23/2019,6:00 PM - 7:30 PM,$0.00,Chelsie A. Clayburn,41.49116891,-112.0243605
+259,"St. Mary's  5801 Bremo Road, Richmond , VA, 23226",05/09/19,3:00 PM - 5:00 PM,$0.00,Katie Smith,37.58393127,-77.51375624
+260,"St. Mary's  5801 Bremo Road, Richmond, VA, 23226",05/10/19,7:30 AM - 9:30 AM,$0.00,Katie Smith,37.58393127,-77.51375624
+261,"University Health System - Cypress Room (1st floor main lobby)   4502 Medical Drive , San Antonio, TX, 78229",07/01/19,4:00 PM - 5:00 PM,$0.00,TaTaka Perry-Johnson,29.50998302,-98.57909939
+262,"University Health System - Cypress Room (1st floor main lobby)   4502 Medical Drive , San Antonio, TX, 78229",10/07/19,4:00 PM - 5:00 PM,$0.00,TaTaka Perry-Johnson,29.50998302,-98.57909939
+263,"DHR Rehab Conference Room  5501 S. McColl Rd., Edinburg, TX, 78539",05/30/2019,5:30 PM - 7:00 PM,$0.00,Jennifer  Volcy,26.25383652,-98.20392302
+264,"University Health System- Cyress Room  4502 Medical Drive, San Antonio, TX, 78229",05/28/2019,4:00 PM - 5:00 PM,$0.00,TaTaka Perry-Johnson,29.50998302,-98.57909939
+265,"St. Joseph Medical Center  1401 St. Joseph Parkway, Houston, TX, 77002",05/10/19,7:30 AM - 9:00 AM,$0.00,Elizabeth C. Rothrock,29.74708005,-95.36631997
+266,"St. Joseph Medical Center  1401 St. Joseph Parkway, Houston, TX, 77002",05/10/19,1:00 PM - 2:00 PM,$0.00,Elizabeth C. Rothrock,29.74708005,-95.36631997
+267,"Texoma Medical Center- Conference Rooms 1 & 2  5016 S. US Hwy 75 , Denison, TX, 75076",05/23/2019,3:30 PM - 5:30 PM,$0.00,Emily A. Johnson,33.70975,-96.58559
+268,"Texoma Medical Center- Conference Rooms 1 & 2  5016 S. US HWY 75, Denison, TX, 75020",05/23/2019,6:00 PM - 8:00 PM,$0.00,Emily A. Johnson,33.70975,-96.58559
+269,"EvergreenHealth Monroe  14701 179th Ave SE, Monroe, WA, 97272",06/11/19,6:00 PM - 8:00 PM,$0.00,Vince Reynolds,47.86370002,-121.9896999
+270,"EvergreenHealth Monroe  14701 179th Ave SE, Monroe, WA, 97272",05/14/2019,6:00 PM - 8:00 PM,$0.00,Vince Reynolds,47.86370002,-121.9896999
+271,"EvergreenHealth Monroe  14701 179th Ave SE, Monroe, WA, 97272",07/09/19,6:00 PM - 8:00 PM,$0.00,Vince Reynolds,47.86370002,-121.9896999
+272,"Overlake Medical Center  1035 116th Ave NE, Bellevue, WA, 98004",06/06/19,6:30 PM - 8:30 PM,$0.00,Karen A. Kettner,47.62075992,-122.18656
+273,"Station 81   6117 S Palouse Hwy, Spokane, WA, 99223",05/18/2019,9:30 AM - 12:00 PM,$0.00,Denise C. McCurdy,47.59779939,-117.3520733
+274,"Station 81   6117 S Palouse Hwy, Spokane, WA, 99223",08/10/19,9:30 AM - 12:00 PM,$0.00,Denise C. McCurdy,47.59779939,-117.3520733
+275,"Station 81   6117 S Palouse Hwy, Spokane, WA, 99223",11/09/19,9:30 AM - 12:00 PM,$0.00,Denise C. McCurdy,47.59779939,-117.3520733
+276,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",06/10/19,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+277,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",07/08/19,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+278,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",08/12/19,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+279,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",09/09/19,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+280,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",10/14/2019,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+281,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",11/11/19,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+282,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",12/09/19,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+283,"Sacred Heart Medical Center - Mother Gamelin Building Elizabeth  20 W 9th ave, Spokane , WA, 99220",05/13/2019,5:00 PM - 7:00 PM,$0.00,Denise C. McCurdy,47.64722419,-117.4115363
+284,"EvergreenHealth Medical Center  12040 NE 128th Street, Kirkland, WA, 98034",05/23/2019,7:00 PM - 9:00 PM,$0.00,Barbara A. Jensen,47.71553007,-122.17975
+285,"EvergreenHealth Medical Center  12040 NE 128th Street, Kirkland, WA, 98034",07/25/2019,7:00 PM - 9:00 PM,$0.00,Barbara A. Jensen,47.71553007,-122.17975
+286,"EvergreenHealth Medical Center  12040 NE 128th Street, Kirkland, WA, 98034",09/26/2019,7:00 PM - 9:00 PM,$0.00,Barbara A. Jensen,47.71553007,-122.17975
+287,"EvergreenHealth Medical Center  12040 NE 128th Street, Kirkland, WA, 98034",11/21/2019,7:00 PM - 9:00 PM,$0.00,Barbara A. Jensen,47.71553007,-122.17975
+288,"Island Hospital  1211 24th Street, Anacortes, WA, 98221",05/17/2019,2:00 PM - 4:00 PM,$0.00,Lisa Edwards,48.50240997,-122.61564
+289,"Reston Hospital Center  Pavilion 2, Classroom A, Reston, VA, 20190",06/29/2019,9:00 AM - 11:00 AM,$0.00,Luther B. Surface,38.9490156,-77.3122201
+290,"Suite 110 (Natural Birthing Center Classroom)  44045 Riverside Pkwy, Leesburg, VA, 20176",05/07/19,6:00 PM - 7:30 PM,$0.00,Jordan Tyczka,39.07530949,-77.47551932
+291,"Centra Virginia Center for SImulation   905 Lakeside Dr, Lynchburg , VA, 24501",05/09/19,5:30 PM - 7:30 PM,$0.00,Kelly L. Brown,37.40531264,-79.16960726
+292,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",05/16/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+293,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",06/20/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+294,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",07/18/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+295,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",08/15/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+296,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",09/19/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+297,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",10/17/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+298,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",11/21/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+299,"Hylton Education Center  2300 Opitz Blvd , Woodbridge , VA, 22191",12/19/2019,6:00 PM - 7:30 PM,$0.00,Dynette  L. Rombough,38.63718,-77.28633
+300,"Johnston Willis Hospital  1401 Johnston Willis Drive, Richmond, VA, 23235",07/29/2019,7:30 AM - 9:30 AM,$0.00,Katherine M. Challis,37.51065006,-77.59566998
+301,"Chippenham Medical Center  7101 Jahnke Road, Richmond, VA, 23225",10/14/2019,4:00 PM - 6:00 PM,$0.00,Katherine M. Challis,37.51467997,-77.52674993
+302,"North Courthouse Road Library  325 Courthouse Road, Richmond, VA, 23236",08/06/19,5:30 PM - 7:30 PM,$0.00,Katherine M. Challis,37.48513026,-77.59757112
+303,"Meadowdale Library  4301 Meadowdale Blvd, North Chesterfield, VA, 23234",09/09/19,5:30 PM - 7:30 PM,$0.00,Katherine M. Challis,37.43793196,-77.47493711
+304,"Central Library  7051 Lucy Corr Blvd, Chesterfield, VA, 23832",11/20/2019,5:30 PM - 7:30 PM,$0.00,Katherine M. Challis,37.38273936,-77.51359511
+305,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",10/10/19,11:00 AM - 12:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+306,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",11/14/2019,2:00 PM - 3:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+307,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",12/05/19,11:00 AM - 12:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+308,"Tampa General Community Health Education Center  2106 S. Lois Ave, Tampa , FL, 33629",05/08/19,5:30 PM - 6:30 PM,$0.00,Dawn Lewis,27.926325,-82.51410135
+309,"Tampa General Community Health Education Center  2106 S. Lois Ave, Tampa , FL, 33629",06/12/19,5:30 PM - 6:30 PM,$0.00,Dawn Lewis,27.926325,-82.51410135
+310,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",05/09/19,2:00 PM - 3:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+311,"Halifax Health Main Campus  303 N. Clyde Morris Blvd, Daytona Beach, FL, 32114",05/23/2019,8:00 AM - 9:00 AM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+312,"Halifax Health Main Campus  303 N. Clyde Morris Blvd, Daytona Beach, FL, 32114",05/23/2019,9:00 AM - 10:00 AM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+313,"Halifax Health Main Campus  303 N. Clyde Morris Blvd, Daytona Beach, FL, 32114",05/23/2019,10:00 AM - 11:00 AM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+314,"Halifax Health Main Campus  303 N. Clyde Morris Blvd, Daytona Beach, FL, 32114",05/23/2019,12:00 PM - 1:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+315,"Halifax Health Main Campus  303 N. Clyde Morris Blvd, Daytona Beach, FL, 32114",05/23/2019,1:00 PM - 2:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+316,"Halifax Health Main Campus  303 N. Clyde Morris Blvd, Daytona Beach, FL, 32114",05/23/2019,2:00 PM - 3:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+317,"Yampa Valley Medical Center  1024 Central Park Drive, Steamboat Springs, CT, 80487",06/04/19,5:30 PM - 6:30 PM,$0.00,Melissa Uchitelle-Rogers,40.46250167,-106.8143858
+318,"Center for Innovation and Learning/Collaborative Theater  260 Ashley St., Hartford, CT, 06105",05/23/2019,12:00 PM - 1:00 PM,$0.00,Allyssa V. Harland,41.77582014,-72.69825724
+319,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",06/18/2019,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+320,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",08/20/2019,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+321,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",09/17/2019,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+322,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",10/15/2019,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+323,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",11/19/2019,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+324,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",03/17/2020,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+325,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",04/21/2020,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+326,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",05/19/2020,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+327,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",06/16/2020,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+328,"Saint Francis Hospital  701 North Clayton Street, Wilmington, DE, 19805",05/21/2019,6:00 PM - 7:30 PM,$0.00,Maria LeNoir,39.74960246,-75.56660801
+329,"Castle Rock Adventist Hospital Greenland Conference room  2350 Meadows Parkway, Castle Rock, CO, 80109",05/29/2019,4:30 PM - 5:30 PM,$0.00,Valerie P. Brockman,39.40644276,-104.877221
+330,"Castle Rock Adventist Hospital Gateway Mesa Conference room  2350 Meadows Parkway, Castle Rock, CO, 80109",05/15/2019,1:30 PM - 2:30 PM,$0.00,Valerie P. Brockman,39.40644276,-104.877221
+331,"Castle Rock Adventist Hospital Greenland Conference room  2350 Meadows Parkway, Castle Rock, CO, 80109",06/20/2019,4:30 PM - 5:30 PM,$0.00,Valerie P. Brockman,39.40644276,-104.877221
+332,"Castle Rock Adventist Hospital Gateway Mesa Conference room  2350 Meadows Parkway, Castle Rock, CO, 80109",06/28/2019,4:30 PM - 5:30 PM,$0.00,Valerie P. Brockman,39.40644276,-104.877221
+333,"Poudre Valley Hospital  1024 S Lemay Ave, Fort Collins, CO, 80524",05/22/2019,9:30 AM - 11:00 AM,$0.00,Ashley D. Saint-Roberts,40.57115005,-105.056
+334,"Medical Center of the Rockies  2500 Rocky Mountain Ave, Loveland, CO, 80538",06/19/2019,2:00 PM - 3:30 PM,$0.00,Ashley D. Saint-Roberts,40.41553,-104.99798
+335,"Poudre Valley Hospital  1024 S Lemay Ave, Fort Collins, CO, 80524",07/27/2019,9:00 AM - 10:30 AM,$0.00,Ashley D. Saint-Roberts,40.57115005,-105.056
+336,"Medical Center of the Rockies  2500 Rocky Mountain Ave, Loveland, CO, 80538",08/21/2019,6:00 PM - 7:30 PM,$0.00,Ashley D. Saint-Roberts,40.41553,-104.99798
+337,"Littleton Adventist Hospital  7700 South Broadway, Littleton, CO, 80122",05/29/2019,4:00 PM - 6:00 PM,$0.00,Nicole Gordon,39.57645996,-104.98541
+338,"Littleton Adventist Hospital  7700 South Broadway, Littleton, CO, 80122",06/20/2019,4:00 PM - 6:00 PM,$0.00,Nicole Gordon,39.57645996,-104.98541
+339,"City Hall Community Building  151 South 1st West, Cheyenne Wells, CO, 80810",05/08/19,5:30 PM - 7:30 PM,$0.00,Jasmine R. Shea,38.82008404,-102.3505092
+340,"UCHealth/Yampa Valley Medical Center  1024 Central Park Drive, Steamboat Springs, CO, 80487",05/07/19,5:30 PM - 6:30 PM,$0.00,Melissa Uchitelle-Rogers,40.46299006,-106.81478
+341,"St. Anthony Hospital  11600 W 2nd Place, Lakewood, CO, 80228",05/23/2019,11:00 AM - 12:30 PM,$0.00,Robert C. Hayes,39.71624,-105.13005
+342,"St. Anthony Hospital  11600 W 2nd Place, Lakewood, CO, 80228",05/23/2019,2:00 PM - 3:30 PM,$0.00,Robert C. Hayes,39.71624,-105.13005
+343,"St. Anthony Hospital  11600 W 2nd Place, Lakewood, CO, 80228",05/23/2019,5:00 PM - 6:30 PM,$0.00,Robert C. Hayes,39.71624,-105.13005
+344,"Porter Adventist Hospital - Cottonwood Springs Conference Room  2525 S Downing, Denver, CO, 80210",05/23/2019,5:00 PM - 6:00 PM,$0.00,Lindsay Dickerson,39.66986007,-104.97413
+345,"Porter Adventist Hospital - Eagle Conference Room  2525 S Downing St, Denver, CO, 80210",06/07/19,4:00 PM - 5:00 PM,$0.00,Lindsay Dickerson,39.66986007,-104.97413
+346,"Porter Adventist Hospital - Cottonwood Springs Conference Room  2525 S Downing St, Denver, CO, 80210",07/21/2019,5:00 PM - 6:00 PM,$0.00,Lindsay Dickerson,39.66986007,-104.97413
+347,"Gunnison Valley Health Senior Care Center   3711, 1500 W Tomichi Ave, Gunnison, CO, 81230",05/30/2019,4:30 PM - 6:30 PM,$0.00,Gina  V. Lambert,38.54447651,-106.9447505
+348,"Gunnison Valley Health Senior Care Center   1500 W Tomichi Ave,, Gunnison, CO, 81230",08/28/2019,4:30 PM - 6:30 PM,$0.00,Gina  V. Lambert,38.54447651,-106.9447505
+349,"Gunnison Valley Health Senior Care Center   1500 W Tomichi Ave, Gunnison, CO, 81230",11/21/2019,4:30 PM - 6:30 PM,$0.00,Gina  V. Lambert,38.54447651,-106.9447505
+350,"Community Education Center  2050 Kidskare Point, Colorado Springs, CO, 80910",05/29/2019,12:30 PM - 1:30 PM,$0.00,Lori E. Morgan,38.83080283,-104.7891406
+351,"Community Education Center  2050 Kidskare Point, Colorado Springs, CO, 80910",06/14/2019,9:00 AM - 10:00 AM,$0.00,Lori E. Morgan,38.83080283,-104.7891406
+352,"Community Education Center  2050 Kidskare Point, Colorado Springs, CO, 80910",08/15/2019,3:30 PM - 4:30 PM,$0.00,Lori E. Morgan,38.83080283,-104.7891406
+353,"Community Education Center  2050 Kidskare Point, Colorado Springs, CO, 80910",08/30/2019,3:30 PM - 4:30 PM,$0.00,Lori E. Morgan,38.83080283,-104.7891406
+354,"Community Education Center  2050 Kidskare Point, Colorado Springs, CO, 80910",10/30/2019,11:30 AM - 12:30 PM,$0.00,Lori E. Morgan,38.83080283,-104.7891406
+355,"Community Education Center  2050 Kidskare Point, Colorado Springs, CO, 80910",11/15/2019,11:30 AM - 12:30 PM,$0.00,Lori E. Morgan,38.83080283,-104.7891406
+356,"Memorial Hospital North, Pine Creek Room  4050 Briargate Pkwy., Colorado Springs, CO, 80920",06/26/2019,9:00 AM - 10:00 AM,$0.00,Lori E. Morgan,38.96735003,-104.75459
+357,"Memorial Hospital North, Pine Creek Room  4050 Briargate Pkwy., Colorado Springs, CO, 80920",09/09/19,11:30 AM - 12:30 PM,$0.00,Lori E. Morgan,38.96735003,-104.75459
+358,"Memorial Hospital North, Pine Creek Room  4050 Briargate Pkwy., Colorado Springs, CO, 80920",12/12/19,3:30 PM - 4:30 PM,$0.00,Lori E. Morgan,38.96735003,-104.75459
+359,"Memorial Hospital Central, Dining Room #1  1400 E. Boulder St., Colorado Springs, CO, 80909",07/15/2019,12:30 PM - 1:30 PM,$0.00,Lori E. Morgan,38.83888662,-104.8003745
+360,"Memorial Hospital Central, Dining Room #1  1400 E. Boulder St., Colorado Springs, CO, 80909",09/26/2019,3:30 PM - 4:30 PM,$0.00,Lori E. Morgan,38.83888662,-104.8003745
+361,"Memorial Hospital Central, Dining Room #1  1400 E. Boulder St., Colorado Springs, CO, 80909",11/29/2019,11:30 AM - 12:30 PM,$0.00,Lori E. Morgan,38.83888662,-104.8003745
+362,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",05/17/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+363,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",05/17/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+364,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",07/19/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+365,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",07/19/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+366,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",09/20/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+367,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",09/20/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+368,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",11/15/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+369,"St. Francis Medical Center- Conference Rooms 4 & 5  6001 E. Woodmen Road, Colorado Springs, CO, 80923",11/15/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.93862001,-104.71703
+370,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",06/21/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+371,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",06/21/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+372,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",08/16/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+373,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",08/16/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+374,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",10/18/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+375,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",10/18/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+376,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",12/20/2019,1:30 PM - 2:30 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+377,"Penrose Pavilion- Conference Rooms B & C  2312 N Nevada Ave, Colorado Springs, CO, 80907",12/20/2019,3:00 PM - 4:00 PM,$0.00,Angela Kedroutek,38.8658699,-104.8201457
+378,"Memorial Administrative Center, Classroom B  2420 E. Pikes Peak Ave., Colorado Springs, CO, 80909",05/14/2019,3:30 PM - 4:30 PM,$0.00,Lori E. Morgan,38.83264246,-104.7857022
+379,"Memorial Administrative Center, Classroom B  2420 E. Pikes Peak Ave., Colorado Springs, CO, 80909",07/30/2019,9:00 AM - 10:00 AM,$0.00,Lori E. Morgan,38.83264246,-104.7857022
+380,"Memorial Administrative Center, Classroom B  2420 E. Pikes Peak Ave., Colorado Springs, CO, 80909",10/15/2019,1:30 PM - 2:30 PM,$0.00,Lori E. Morgan,38.83264246,-104.7857022
+381,"Memorial Administrative Center, Classroom B  2420 E. Pikes Peak Ave., Colorado Springs, CO, 80909",12/31/2019,9:00 AM - 10:00 AM,$0.00,Lori E. Morgan,38.83264246,-104.7857022
+382,"St. Joseph's Hospital and Medical Center  350 W. Thomas Rd, Phoenix, AZ, 85013",05/23/2019,1:00 PM - 2:00 PM,$0.00,Dana J. Stout,33.48177,-112.07997
+383,"Decatur County Hospital  1405 NW Church Street, Leon, IA, 50144",05/23/2019,6:00 PM - 9:00 PM,$0.00,Jamie P. McDaniel,40.75111,-93.74617
+384,"Saint Alphonsus Regional Medical Center - Coughlin 3  1055 North Curtis Road, Boise, ID, 83706",05/23/2019,6:00 PM - 7:30 PM,$0.00,Marie Krochmal,43.61444994,-116.25683
+385,"Kootenai Health Free Community Class  2003 Kootenai Health Way, Coeur d'Alene, ID, 83814",05/13/2019,9:00 AM - 11:00 AM,$0.00,Wendy J. Ferguson,47.69624998,-116.7930201
+386,"Kootenai Health, main campus  2003 Kootenai Health Way, Coeur d'Alene, ID, 83814",06/11/19,9:00 AM - 11:00 AM,$0.00,Wendy J. Ferguson,47.69624998,-116.7930201
+387,"Kootenai Health, main campus  2003 Kootenai Health Way, Coeur d'Alene, ID, 83814",08/13/2019,1:00 PM - 3:00 PM,$0.00,Wendy J. Ferguson,47.69624998,-116.7930201
+388,"Kootenai Health, main campus  2003 Kootenai Health Way, Coeur d'Alene, ID, 83814",10/08/19,1:00 PM - 3:00 PM,$0.00,Wendy J. Ferguson,47.69624998,-116.7930201
+389,"Kootenai Health, main campus  2003 Kootenai Health Way, Coeur d'Alene, ID, 83814",12/10/19,1:00 PM - 3:00 PM,$0.00,Wendy J. Ferguson,47.69624998,-116.7930201
+390,"St. Luke's Boise  190 E Bannock St, Boise, ID, 83712",05/22/2019,12:00 PM - 1:00 PM,$0.00,Heather A. Knapp,43.61248997,-116.19225
+391,"St. Luke's Boise  190 E Bannock St, Boise, ID, 83712",06/26/2019,11:30 AM - 1:00 PM,$0.00,Heather A. Knapp,43.61248997,-116.19225
+392,"St. Luke's Boise  190 E Bannock St, Boise, ID, 83712",07/25/2019,11:30 AM - 1:00 PM,$0.00,Heather A. Knapp,43.61248997,-116.19225
+393,"St. Luke's Boise  190 E Bannock St, Boise, ID, 83712",08/14/2019,11:30 AM - 1:00 PM,$0.00,Heather A. Knapp,43.61248997,-116.19225
+394,"St. Luke's Boise  190 E Bannock St, Boise, ID, 83712",09/11/19,11:30 AM - 1:00 PM,$0.00,Heather A. Knapp,43.61248997,-116.19225
+395,"Lutheran General Hospital  1775 Dempster Street, Park Ridge, IL, 60068",05/30/2019,9:00 AM - 12:00 PM,$0.00,Anthony M. Butler,42.03971555,-87.84877217
+396,"Crawford County Memorial Hospital  100 Medical Pkwy, Denison, IA 51442, Denison, IA, 51442",05/06/19,10:00 AM - 11:00 AM,$0.00,Brian Feist,42.02479997,-95.37842006
+397,"Home Extension Club  2nd street, Nashville, AR, 71852",05/03/19,1:00 PM - 2:00 PM,$0.00,Gayla A. Beaird,33.9457648,-93.8521731
+398,"Nathan Fire Department  Nathan, Nathan, AR, 71958",05/06/19,7:00 PM - 8:00 PM,$0.00,Gayla A. Beaird,34.06205,-93.69072
+399,"Sarasota Memorial Hospital HealthConnection  1700 S. Tamiami Trail, Sarasota, FL, 34239",05/14/2019,2:00 PM - 3:00 PM,$0.00,Leeann Putney,27.31848994,-82.53080006
+400,"Cafe Classroom  1700 S 23rd St , Fort Pierce, FL, 34950",06/04/19,12:30 PM - 2:30 PM,$0.00,Chinetta Neal,27.4317634,-80.34731907
+401,"Pavilion  1860 N Lawnwood Circle, Fort Pierce, FL, 34950",06/03/19,12:30 PM - 2:30 PM,$0.00,Chinetta Neal,27.43584503,-80.34340717
+402,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",05/09/19,5:30 PM - 6:30 PM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+403,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",06/08/19,9:00 AM - 10:00 AM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+404,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",07/11/19,5:30 PM - 6:30 PM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+405,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",08/10/19,9:00 AM - 10:00 AM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+406,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",09/12/19,5:30 PM - 6:30 PM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+407,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",10/12/19,9:00 AM - 10:00 AM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+408,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",11/07/19,5:30 PM - 6:30 PM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+409,"Lakeland Regional Health Medical Center  1324 Lakeland Hills Blvd Kathy Hunt Learning Center , Lakeland, FL, 33810",12/07/19,9:00 AM - 10:00 AM,$0.00,Diana DeGroot,28.06011001,-81.95381997
+410,"Orlando Regional Medical Center  52 W. Underwood St., Orlando, FL, 32806",09/05/19,6:00 PM - 7:30 PM,$0.00,Adriana Patel,28.52656,-81.37791
+411,"Orlando Regional Medical Center  52 W. Underwood St., Orlando, FL, 32806",12/05/19,6:00 PM - 7:30 PM,$0.00,Adriana Patel,28.52656,-81.37791
+412,"Orlando Regional Medical Center  52 W. Underwood St., Orlando, FL, 32806",12/13/2019,2:00 PM - 3:00 PM,$0.00,Adriana Patel,28.52656,-81.37791
+413,"Orlando Regional Medical Center  52 W. Underwood St., Orlando, FL, 32806",09/27/2019,2:00 PM - 3:00 PM,$0.00,Adriana Patel,28.52656,-81.37791
+414,"Orlando Regional Medical Center  52 W. Underwood St., Orlando , FL, 32806",06/21/2019,2:00 PM - 3:00 PM,$0.00,Adriana Patel,28.52656,-81.37791
+415,"Orlando Regional Medical Center  52 W. Underwood St., Orlando , FL, 32806",06/06/19,6:00 PM - 7:30 PM,$0.00,Adriana Patel,28.52656,-81.37791
+416,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",05/29/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+417,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",06/26/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+418,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",07/31/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+419,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",08/28/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+420,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",09/25/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+421,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",10/30/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+422,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",11/27/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+423,"Blake Medical Center  2020 59th St W, Bradenton, FL, 34209",12/18/2019,10:00 AM - 11:00 AM,$0.00,Cynthia L. Tanner,27.48217996,-82.62306999
+424,"Orange Park Medical Center (Classroom 7)  2001 Kingsley Ave., Orange Park, FL, 32073",05/23/2019,4:00 PM - 6:00 PM,$0.00,Sarah Miller,30.16480351,-81.73792281
+425,"TGH Brandon Healthplex  10740 Palm River Road, Tampa , FL, 33619",05/29/2019,5:30 PM - 6:30 PM,$0.00,Dawn Lewis,27.93187233,-82.33628618
+426,"TGH Brandon Healthplex  10740 Palm River Road, Tampa , FL, 33619",06/26/2019,5:30 PM - 6:30 PM,$0.00,Dawn Lewis,27.93187233,-82.33628618
+427,"Tampa General Hospital  1 Tampa General Circle, Tampa, FL, 33606",05/23/2019,12:00 PM - 1:00 PM,$0.00,Dawn Lewis,27.93755992,-82.45925002
+428,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",06/13/2019,11:00 AM - 12:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+429,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",07/11/19,2:00 PM - 3:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+430,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",08/08/19,11:00 AM - 12:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+431,"Halifax Health Conference Room F  303 N. Clyde Morris Blvd., Daytona Beach, FL, 32114",09/19/2019,2:00 PM - 3:00 PM,$0.00,Meghan E. Thomas,29.19939226,-81.05473659
+432,"City of Chamblee Civic Center  3540 Broad Street, Chamblee, GA, 30341",05/11/19,10:00 AM - 12:00 PM,$0.00,John H. Garrett Jr,33.89622476,-84.29899257
+433,"City of Chamblee Civic Center  3540 Broad Street, Chamblee, GA, 30341",05/11/19,1:00 PM - 3:00 PM,$0.00,John H. Garrett Jr,33.89622476,-84.29899257
+434,"DMACC Urband Campus  1100 7th St, Des Moines, IA 50314, Des Moines, IA, 50314",05/09/19,2:00 PM - 3:00 PM,$0.00,Brian Feist,41.597973,-93.6269387
+435,"Monroe County Hospital and Clinics  6580 165th street, Albia, IA, 52531",05/23/2019,12:00 PM - 1:00 PM,$0.00,Heather R. Leshen,41.04389,-92.79632
+436,"Monroe County Hospital and Clinics  6580 165th street, Albia , IA, 52531",05/23/2019,5:30 PM - 6:30 PM,$0.00,Heather R. Leshen,41.04389,-92.79632
+437,"Doctors Medical Center, McHenry Conference Center  1445 McHenry Avenue, Modesto, CA, 95350",05/30/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66513246,-120.9939757
+438,"Carondelet St. Joseph's Hospital Canyon Conference Room  350 N. Wilmot Rd., Tucson, AZ, 85711",05/11/19,9:30 AM - 11:00 AM,$0.00,Brooke Reaves,32.22642,-110.85558
+439,"Banner-University Medical Center Phoenix, Sandstone Conference Room South  1111 East McDowell Rd, Phoenix, AZ, 85006",05/23/2019,9:00 AM - 11:00 AM,$0.00,Melissa A. Luxton,33.46469993,-112.05724
+440,"CHP-Air Ops  3500 Airport Rd, Napa, CA, 94558",05/15/2019,10:00 AM - 12:00 PM,$0.00,Evan Edminster,38.20771622,-122.2695775
+441,"Stanford Center for Education and Professional Development  1850 Embarcadero Road, Suite A, Palo Alto, CA, 94303",05/13/2019,4:00 PM - 5:00 PM,$0.00,Michelle Woodfall,37.45190041,-122.1160174
+442,"Stanford Center for Education and Professional Development  1850 Embarcadero Road, Suite A, Palo Alto, CA, 94303",06/10/19,4:00 PM - 5:00 PM,$0.00,Michelle Woodfall,37.45190041,-122.1160174
+443,"Loma Linda University Medical Center  Medical Center 11175 Campus Street, A217, Loma Linda, CA, 92350",05/09/19,5:00 PM - 6:30 PM,$0.00,Sigrid Burruss,34.05064403,-117.2656384
+444,"Simi Valley Public Library  2969 Tapo Canyon Road, Simi Valley, CA, 93063",05/08/19,3:00 PM - 5:00 PM,$0.00,Cynthia Marin,34.28925,-118.71768
+445,"Riverside Community Hospital - DeAnza Surgery Center Building  4444 Magnolia Ave, Riverside, CA, 92501",05/18/2019,9:00 AM - 10:00 AM,$0.00,Wendy A. McEuen,33.97588736,-117.3801181
+446,"Riverside Community Hospital - DeAnza Surgery Center Building  4444 Magnolia Ave, Riverside, CA, 92501",05/18/2019,10:00 AM - 11:00 AM,$0.00,Wendy A. McEuen,33.97588736,-117.3801181
+447,"Riverside Community Hospital - DeAnza Surgery Center Building  4444 Magnolia Ave, Riverside, CA, 92501",05/18/2019,11:00 AM - 12:00 PM,$0.00,Wendy A. McEuen,33.97588736,-117.3801181
+448,"Murphy Wilmot Library  530 N. Wilmot Rd., Tucson, AZ, 85711",05/14/2019,1:00 PM - 3:00 PM,$0.00,Brooke Reaves,32.22771007,-110.8578299
+449,"Banner Del Webb Medical Center  14502 W. Meeker Blvd, Sun City West, AZ, 85375",05/23/2019,7:00 AM - 9:00 AM,$0.00,Timothy Freund,33.66087993,-112.3730599
+450,"Banner Del Webb Medical Center  14502 W. Meeker Blvd, Sun City West, AZ, 85375",05/23/2019,9:30 AM - 11:30 AM,$0.00,Timothy Freund,33.66087993,-112.3730599
+451,"Banner Del Webb Medical Center  14502 W. Meeker Blvd, Sun City West, AZ, 85375",05/23/2019,1:00 PM - 3:00 PM,$0.00,Timothy Freund,33.66087993,-112.3730599
+452,"Banner Del Webb Medical Center  14502 W. Meeker Blvd, Sun City West, AZ, 85375",05/23/2019,3:30 PM - 5:30 PM,$0.00,Timothy Freund,33.66087993,-112.3730599
+453,"Scripps Memorial Hospital La Jolla-Schaetzel Center-Noble Room  9890 Genesee Ave, La Jolla, CA, 92037",06/14/2019,1:00 PM - 2:00 PM,$0.00,Melanie L. Gawlik,32.88578097,-117.2233925
+454,"Scripps Memorial Hospital La Jolla-Schaetzel Center-Noble Room  9890 Genesee Ave, La Jolla, CA, 92037",08/09/19,1:00 PM - 2:00 PM,$0.00,Melanie L. Gawlik,32.88578097,-117.2233925
+455,"Scripps Memorial Hospital La Jolla-Schaetzel Center-Noble Room  9890 Genesee Ave, La Jolla, CA, 92037",10/11/19,1:00 PM - 2:00 PM,$0.00,Melanie L. Gawlik,32.88578097,-117.2233925
+456,"Scripps Memorial Hospital La Jolla  9890 Genesee Ave, La Jolla, CA, 92037",12/13/2019,1:00 PM - 2:00 PM,$0.00,Melanie L. Gawlik,32.88451008,-117.2252
+457,"Solan Land Trust and Access Adventure- Rush Ranch Open Space  3521 Grizzly Island Rd, Suisun City, CA, 94585",05/30/2019,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.2096884,-122.0196097
+458,"Banner Thunderbird Medical Center, Conference Room 5  5555 W. Thunderbird Rd., Glendale, AZ, 85306",06/18/2019,1:00 PM - 3:00 PM,$0.00,Melissa A. Luxton,33.60969995,-112.1797799
+459,"Banner Thunderbird Medical Center, Conference Room 5  5555 W. Thunderbird Rd., Glendale, AZ, 85306",07/16/2019,12:00 PM - 2:00 PM,$0.00,Melissa A. Luxton,33.60969995,-112.1797799
+460,"HRMC Learning Center  1785 McCullough Blvd, Lake Havasu City, AZ, 86403",05/28/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47407,-114.33399
+461,"HRMC Learning Center  1785 McCullough Blvd, Lake Havasu City, AZ, 86403",06/26/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47407,-114.33399
+462,"HRMC Learning Center  1785 McCullough Blvd, Lake Havasu City, AZ, 86403",07/30/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47407,-114.33399
+463,"HRMC Learning Center  1785 McCullough Blvd, Lake Havasu City, AZ, 86403",08/27/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47407,-114.33399
+464,"HRMC Learning Center  1785 McCullough Blvd, Lake Havasu City, AZ, 86403",09/26/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47407,-114.33399
+465,"HRMC Learning Center  1785 McCullough Blvd, Lake Havasu City, AZ, 86403",10/30/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47407,-114.33399
+466,"HRMC Learning Center  1785 McCulloch Blvd, Lake Havasu City, AZ, 86403",11/13/2019,6:00 PM - 8:00 PM,$0.00,Danielle  Stello,34.47760795,-114.3387019
+467,"Banner Thunderbird Medical Center, Conference Room 5  5555 W. Thunderbird Rd., Glendale, AZ, 85306",05/21/2019,10:00 AM - 12:00 PM,$0.00,Melissa A. Luxton,33.60969995,-112.1797799
+468,"Kaiser Vacaville Medical Center  1 Quality Drive. Medical Office Building A, 3rd Floor, Conference Rm D, Vacaville, CA, 95688",09/09/19,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38870996,-121.93845
+469,"Kaiser Vacaville Medical Center  1 Quality Drive. Medical Office Building A, 3rd Floor, Conference Rm D, Vacaville, CA, 95688",10/14/2019,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38870996,-121.93845
+470,"Kaiser Vacaville Medical Center  1 Quality Drive. Medical Office Building A, 3rd Floor, Conference Rm D, Vacaville, CA, 95688",11/11/19,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38870996,-121.93845
+471,"Kaiser Vacaville Medical Center  1 Quality Drive. Medical Office Building A, 3rd Floor, Conference Rm D, Vacaville, CA, 95688",12/09/19,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38870996,-121.93845
+472,"Grand River Health  501 Airport road, rifle, CO, 81650",05/21/2019,11:47 AM - 12:48 PM,$0.00,Lisa Domer,39.52168992,-107.7700401
+473,"Montrose Memorial Hospital  800 South Third Street, Trauma Department, Montrose, CO, 81401",05/14/2019,9:00 AM - 10:15 AM,$0.00,Erin Houk,38.48054995,-107.8685301
+474,"Montrose Memorial Hospital  800 South Third Street, Trauma Department, Montrose, CO, 81401",05/14/2019,6:00 PM - 7:00 PM,$0.00,Erin Houk,38.48054995,-107.8685301
+475,"Desert Regional Medical Center  1150 N Indian Canyon, Palm Springs, CA, 92262",06/06/19,10:00 AM - 2:00 PM,$0.00,Gael Whetstone,33.83898996,-116.5438601
+476,"Riverside Community Hospital - Mt Rubidoux Cafe  4445 Magnolia Ave, Riverside , CA, 92501",05/23/2019,12:00 PM - 1:00 PM,$0.00,Wendy A. McEuen,33.97611007,-117.38135
+477,"Riverside Community Hospital - Mt Rubidoux Cafe  4445 Magnolia Ave, Riverside , CA, 92501",05/23/2019,1:00 PM - 2:00 PM,$0.00,Wendy A. McEuen,33.97611007,-117.38135
+478,"Delta County Memorial Hospital  1501 E. 3rd St, Delta, CO, 81416",05/14/2019,10:00 AM - 11:00 AM,$0.00,Jillian Emmons,38.74444004,-108.04707
+479,"Delta County Memorial Hospital  1501 E. 3rd St, Delta, CO, 81416",05/14/2019,11:30 AM - 12:30 PM,$0.00,Jillian Emmons,38.74444004,-108.04707
+480,"Delta County Memorial Hospital  1501 E. 3rd St, Delta, CO, 81416",05/14/2019,1:00 PM - 2:00 PM,$0.00,Jillian Emmons,38.74444004,-108.04707
+481,"Mesa County Library - Central Location  443 N. 6th Street, Grand Junction, CO, 81501",05/14/2019,12:30 PM - 1:30 PM,$0.00,Adam W. Nelson,39.07077,-108.5627701
+482,"Steqamboat Springs Community Center  1597 Lincoln Avenue, Steamboat Springs, CO, 80487",05/22/2019,9:00 AM - 10:00 AM,$0.00,Melissa Uchitelle-Rogers,40.494673,-106.851309
+483,"Steqamboat Springs Community Center  1597 Lincoln Avenue, Steamboat Springs, CO, 80487",05/22/2019,5:00 PM - 6:00 PM,$0.00,Melissa Uchitelle-Rogers,40.494673,-106.851309
+484,"Cedars Sinai Medical Center  127 S San Vicente Blvd (1st Floor), Los Angeles, CA, 90048",05/06/19,9:00 AM - 11:30 AM,$0.00,Brett A. Dodd,34.074619,-118.3785581
+485,"RUHS education building Magnolia Room  26520 Cactus Ave, Moreno Valley, CA, 92555",05/23/2019,8:00 AM - 12:00 PM,$0.00,Martine A. Roth,33.91012945,-117.1953815
+486,"San Joaquin General Hospital  500 W. Hospital Rd, Nursing Education Portable, French Camp, CA, 95231",05/23/2019,11:00 AM - 12:30 PM,$0.00,Carla R. Meckler,37.88647002,-121.2821001
+487,"San Joaquin General Hospital  500 W. Hospital Rd, Nursing Education Portable, French Camp, CA, 95231",05/23/2019,1:30 PM - 3:00 PM,$0.00,Carla R. Meckler,37.88647002,-121.2821001
+488,"San Joaquin General Hospital  500 W. Hospital Rd, Nursing Education Portable, French Camp, CA, 95231",05/23/2019,8:30 AM - 10:00 AM,$0.00,Carla R. Meckler,37.88647002,-121.2821001
+489,"San Joaquin General Hospital  500 W. Hospital Rd, Conference RM 1A& 1B, French Camp, CA, 95231",05/23/2019,5:00 PM - 6:30 PM,$0.00,Carla R. Meckler,37.88647002,-121.2821001
+490,"UC San Diego Health-Camelot Room  130 Dickinson St, San Diego, CA, 92103",05/08/19,6:30 PM - 7:30 PM,$0.00,Lori Herman,32.75525635,-117.1646376
+491,"UC San Diego Health-Camelot Room  130 Dickinson St, San Diego, CA, 92103",06/12/19,6:30 PM - 7:30 PM,$0.00,Lori Herman,32.75525635,-117.1646376
+492,"Cedars-Sinai Advanced Health Sciences Pavilion  127 S San Vicente Blvd (1st Floor), Los Angeles, CA, 90048",05/29/2019,2:00 PM - 3:00 PM,$0.00,Brett A. Dodd,34.074619,-118.3785581
+493,"Cedars-Sinai Advanced Health Sciences Pavilion  127 S San Vicente Blvd (1st Floor), Los Angeles, CA, 90048",06/04/19,8:00 AM - 9:00 AM,$0.00,Brett A. Dodd,34.074619,-118.3785581
+494,"Kaiser Vacaville Medical Center  1 Quality Drive, Vacaville, CA, 95688",05/13/2019,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38870996,-121.93845
+495,"KP Vacaville Medical Center  1 Quality Drive. Medical Office Building A, 3rd Floor, Conf Room D, Vacaville, CA, 95688",06/10/19,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38856621,-121.9384195
+496,"Kaiser Vacaville Medical Center  1 Quality Drive. Medical Office Building A, 3rd Floor, Conference Rm D, Vacaville, CA, 95688",07/08/19,1:00 PM - 3:00 PM,$0.00,Evan Edminster,38.38870996,-121.93845
+497,"Kittery Trading Post   301 US-1, Kittery , ME, 03904",05/16/2019,6:30 PM - 8:00 PM,$0.00,Seth  Kenneway,43.111,-70.7355
+498,"Henry Ford Macomb Hospital: Medical Office Pavillion  16151 19 Mile Road, Clinton Township, MI, 48038",05/21/2019,2:00 PM - 4:00 PM,$0.00,Stephanie Booza,42.61280006,-82.95996002
+499,"SJMC Private Dining Room A  775 South Main Street, Chelsea, MI, 48118",05/14/2019,12:00 PM - 1:00 PM,$0.00,Melissa Vainner,42.30956202,-84.02105527
+500,"Grand Valley State University  301 Michigan St, Grand Rapids, MI, 49503",09/10/19,8:30 AM - 9:30 AM,$0.00,Meaghan R. Crawley,42.96335,-85.67825
+501,"Auburn Hills Community Center  1827 N. Squirrel Road, Auburn Hills MI. 48326, Auburn HIlls, MI, 48326",06/20/2019,6:00 PM - 7:00 PM,$0.00,Anita M. Barksdale,42.67041318,-83.22053726
+502,"Auburn Hills Community Center  1827 N. Squirrel Road, Auburn HIills, MI, 48326",08/15/2019,6:00 PM - 7:00 PM,$0.00,Anita M. Barksdale,42.67041318,-83.22053726
+503,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",05/21/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+504,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",06/18/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+505,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",07/16/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+506,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",07/16/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+507,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",08/20/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+508,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",08/20/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+509,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",09/17/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+510,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",09/17/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+511,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",10/15/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+512,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",10/15/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+513,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",11/19/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+514,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",11/19/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+515,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",12/17/2019,9:00 AM - 10:00 AM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+516,"Beaumont Hospital Trenton  5450 Fort St, Trenton, MI, 48183",12/17/2019,5:00 PM - 6:00 PM,$0.00,Kathy Franzen,42.11623003,-83.21282008
+517,"Taylorville Memorial Hospital auditorium  201 E Pleasant St.  , Taylorville, IL, 62568",06/13/2019,6:00 PM - 7:30 PM,$0.00,Lukas B. Schneider,39.55529995,-89.29447995
+518,"Kaskaskia College Nashville Education Center  17869 Exchange Ave, Nashville, IL, 62263",05/18/2019,1:00 PM - 2:30 PM,$0.00,Matthew Gerdes,38.35907911,-89.3744097
+519,"Heartland Regional Medical Center  3333 W. Deyoung, Marion, IL, 62959",05/08/19,6:00 PM - 8:00 PM,$0.00,Amanda  Throgmorton,37.74311,-88.99167
+520,"Loyola University Medical Center-EMS Building, Room 3284  2160 South 1st Avenue, Maywood, IL, 60153",05/08/19,12:00 PM - 1:00 PM,$0.00,Jackie Kelley,41.86165868,-87.83340436
+521,"Advocate Lutheran General Hospital  1775 Dempster , Park Ridge, IL, 60068",05/08/19,6:00 PM - 7:00 PM,$0.00,Amy Stewart,42.03917002,-87.84777005
+522,"Advocate Lutheran General Hospital  1775 Dempster , Park Ridge, IL, 60068",05/15/2019,6:00 PM - 7:00 PM,$0.00,Amy Stewart,42.03917002,-87.84777005
+523,"Advocate Lutheran General Hospital  1775 Dempster , Park Ridge, IL, 60068",05/29/2019,6:00 PM - 7:00 PM,$0.00,Amy Stewart,42.03917002,-87.84777005
+524,"Advocate Lutheran General Hospital  1775 Dempster , Park Ridge, IL, 60068",05/22/2019,6:00 PM - 7:00 PM,$0.00,Amy Stewart,42.03917002,-87.84777005
+525,"Loyola University Medical Center  2160 South 1st Avenue-7 North Conference Room, Maywood, IL, 60153",05/15/2019,4:00 PM - 5:00 PM,$0.00,Jackie Kelley,41.85952,-87.8341
+526,"Crawford Memorial Hospital  VC Room, Robinson, IL, 62454",05/23/2019,9:00 AM - 10:00 AM,$0.00,Preston S. Reilly,39.01419,-87.75052
+527,"Crawford Memorial Hospital  1000 N Allen St   VC Room, Robinson, IL, 62454",05/23/2019,11:00 AM - 12:00 PM,$0.00,Preston S. Reilly,39.01419,-87.75052
+528,"Crawford Memorial Hospital  1000 N Allen St  VC Room, Robinson, IL, 62454",05/23/2019,1:00 PM - 2:00 PM,$0.00,Preston S. Reilly,39.01419,-87.75052
+529,"Crawford Memorial Hospital  1000 N Allen St  VC Room, Robinson, IL, 62454",05/23/2019,3:00 PM - 4:00 PM,$0.00,Preston S. Reilly,39.01419,-87.75052
+530,"Crawford Memorial Hospital  1000 N Allen St  VC Room, Robinson, IL, 62454",05/23/2019,5:00 PM - 6:00 PM,$0.00,Preston S. Reilly,39.01419,-87.75052
+531,"Crawford Memorial Hospital  1000 N Allen St  VC Room, Robinson, IL, 62454",05/23/2019,7:00 PM - 8:00 PM,$0.00,Preston S. Reilly,39.01419,-87.75052
+532,"Loyola University Medical Center-EMS Building, Room 3284  2160 South 1st Avenue, Maywood, IL, 60153",05/15/2019,12:00 PM - 1:00 PM,$0.00,Jackie Kelley,41.86165868,-87.83340436
+533,"SAIL Center at Anne Arundel Medical Center  2000 Medical Parkway, Suite 106, Annapolis, MD, 21401",05/13/2019,5:30 PM - 7:00 PM,$0.00,Cristina B. Feather,38.98943889,-76.53633619
+534,"SAIL Center at Anne Arundel Medical Center  2000 Medical Parkway, Suite 106, Annapolis, MD, 21401",06/10/19,5:30 PM - 7:00 PM,$0.00,Cristina B. Feather,38.98943889,-76.53633619
+535,"SAIL Center at Anne Arundel Medical Center  2000 Medical Parkway, Suite 106, Annapolis, MD, 21401",07/08/19,5:30 PM - 7:00 PM,$0.00,Cristina B. Feather,38.98943889,-76.53633619
+536,"SOARING CPEP 2018-19  901 N Broadway , Baltimore, MD, 21205",05/31/2019,12:00 PM - 1:00 PM,$0.00,Cheryl Foley,39.30068834,-76.59426856
+537,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",05/24/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+538,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",05/24/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+539,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",06/28/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+540,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",07/10/19,12:00 PM - 1:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+541,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",08/14/2019,12:00 PM - 1:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+542,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",09/11/19,12:00 PM - 1:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+543,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",10/09/19,12:00 PM - 1:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+544,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",11/13/2019,12:00 PM - 1:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+545,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",12/11/19,12:00 PM - 1:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+546,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",10/26/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+547,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",07/13/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+548,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",08/24/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+549,"University of Maryland Shock Trauma Center  22 South Greene Street T1S11, BALTIMORE, MD, 21201",09/28/2019,1:00 PM - 3:00 PM,$0.00,Pamela Y. Smith-McNeal,39.28819689,-76.62365936
+550,"St Joseph Hospital, Conference Room #1  2700 Dolbeer Street, Eureka, CA, 95501",05/24/2019,3:00 PM - 4:00 PM,$0.00,Kari L. Vandiver,40.78389,-124.14154
+551,"St Joseph Hospital, Conference Room #1  2700 Dolbeer Street, Eureka, CA, 95501",05/24/2019,4:30 PM - 5:30 PM,$0.00,Kari L. Vandiver,40.78389,-124.14154
+552,"Banner Desert Medical Center, Juniper Classroom  1400 South Dobson Rd, Mesa, AZ, 85202",05/23/2019,1:00 PM - 3:00 PM,$0.00,Melissa A. Luxton,33.38953008,-111.8784199
+553,"Albany Medical Center  58 Hackett Blvd, Albany, NY, 12209",09/23/2019,4:00 PM - 5:00 PM,$0.00,Lisa M. Frankoski,42.64580913,-73.77704517
+554,"Healthy Living Institute  901 Rancho Lane Suite 180, Las Vegas, NV, 89106",05/09/19,5:00 PM - 6:00 PM,$0.00,Colette L. Moore,36.16051955,-115.1699965
+555,"Healthy Living Institute  901 Rancho Lane Suite 180, Las Vegas, NV, 89106",06/01/19,12:30 PM - 1:30 PM,$0.00,Colette L. Moore,36.16051955,-115.1699965
+556,"Healthy Living Institute  901 Rancho Lane Suite 180, Las Vegas, NV, 89106",07/26/2019,3:00 PM - 4:00 PM,$0.00,Colette L. Moore,36.16051955,-115.1699965
+557,"UAB  1802 6th Ave S, Birmingham, AL, 35233",05/08/19,10:00 AM - 11:00 AM,$0.00,Kelly M. Sheils,33.50598048,-86.80292473
+558,"UAB  1802 6th Ave S, Birmingham, AL, 35233",05/15/2019,2:00 PM - 3:00 PM,$0.00,Kelly M. Sheils,33.50598048,-86.80292473
+559,"Marks Village Community Center  7277 66th St S, Birmingham, AL, 35212",05/20/2019,5:00 PM - 7:00 PM,$0.00,Kelly M. Sheils,33.543222,-86.72680661
+560,"UAB  1802 6th Ave S, Birmingham, AL, 35233",05/23/2019,2:00 PM - 3:00 PM,$0.00,Kelly M. Sheils,33.50598048,-86.80292473
+561,"Lincoln Professional Development Center  901 9th Ave N, Birmingham, AL, 35204",05/29/2019,10:00 AM - 11:00 AM,$0.00,Kelly M. Sheils,33.5157966,-86.82630523
+562,"ENA Conference St. Vincent's East  50 Medical Park Dr E, Birmingham, AL, 35235",05/03/19,9:30 AM - 10:30 AM,$0.00,Kelly M. Sheils,33.59606998,-86.66729005
+563,"Morton Simpson Community Center  4609 8th Court North, Birmingham, AL, 35212",05/06/19,4:30 PM - 6:30 PM,$0.00,Kelly M. Sheils,33.53835691,-86.76837292
+564,"Lake Regional Hospital  54 Hospital Dr., Attn: Trauma Nurse Coordinator, Osage Beach, MO, 65065",08/13/2019,6:00 PM - 7:30 PM,$0.00,Mariah D. Swinker,38.11943523,-92.68438103
+565,"Lake Regional Hospital  54 Hospital Dr., Attn: Trauma Nurse Coordinator, Osage Beach, MO, 65065",06/18/2019,6:00 PM - 7:30 PM,$0.00,Mariah D. Swinker,38.11943523,-92.68438103
+566,"Barnes-Jewish Hospital-Clayton Avenue Building    4353 Clayton Avenue Room 128 , St. Louis , MO, 63110",07/10/19,5:00 PM - 6:00 PM,$0.00,Heather  N. Heil,38.63292946,-90.25472289
+567,"Barnes-Jewish Hospital-Clayton Avenue Building    4353 Clayton Avenue Room 128 , St. Louis , MO, 63110",11/11/19,10:00 AM - 11:00 AM,$0.00,Heather  N. Heil,38.63292946,-90.25472289
+568,"MCC  1 Barnes Jewish Hospital Plaza , St. Louis , MO, 63110",05/14/2019,3:45 PM - 4:45 PM,$0.00,Heather  N. Heil,38.63483861,-90.26326614
+569,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",05/22/2019,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+570,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",06/12/19,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+571,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",07/09/19,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+572,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",09/10/19,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+573,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",05/17/2019,3:30 PM - 4:30 PM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+574,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",06/18/2019,9:00 AM - 10:00 AM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+575,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",07/29/2019,9:00 AM - 10:00 AM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+576,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",08/30/2019,12:30 PM - 1:30 PM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+577,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",09/23/2019,9:00 AM - 10:00 AM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+578,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",10/25/2019,12:30 PM - 1:30 PM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+579,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",11/22/2019,9:00 AM - 10:00 AM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+580,"Lee Stoll Conference Room  3635 Vista Avenue, St. Louis, MO, 63110",12/17/2019,9:00 AM - 10:00 AM,$0.00,Carrie L. Chismarich,38.62255018,-90.23931716
+581,"Shirley Day Conference Room B  1060 West 10th, Rolla, MO, 65401",05/10/19,10:00 AM - 12:00 PM,$0.00,Ray D. Massey,37.95151262,-91.78569746
+582,"Northern Montana Hospital  30 13th Street, Havre, MT, 59501",05/15/2019,3:00 PM - 4:00 PM,$0.00,Dale Herd,48.53933,-109.68591
+583,"RED LODGE FIRE RESCUE SAR  BROADWAY AVE, RED LODGE, MT, 59068",05/18/2019,10:00 AM - 12:00 PM,$0.00,Christopher Benton,45.1836904,-109.2497199
+584,"Two Rivers Church  3321 Neuse Blvd, New Bern, NC, 28560",05/29/2019,6:00 PM - 7:30 PM,$0.00,Daniel Whitehead,35.13166469,-77.09327333
+585,"CaroMont Regional Medical Center  2525 Court Drive, Gastonia, NC, 28054",05/23/2019,7:00 AM - 8:30 AM,$0.00,Sharry A. Duncan,35.27274995,-81.13995999
+586,"CaroMont Regional Medical Center  2525 Court Drive, Gastonia, NC, 28054",05/23/2019,11:00 AM - 12:30 PM,$0.00,Sharry A. Duncan,35.27274995,-81.13995999
+587,"CaroMont Regional Medical Center  2525 Court Drive, Gastonia, NC, 28054",05/23/2019,2:00 PM - 3:30 PM,$0.00,Sharry A. Duncan,35.27274995,-81.13995999
+588,"Davis Regional Medical Center Class room A & B  218 Old Mocksville rd, Statesville, NC, 28625",05/23/2019,2:00 PM - 3:00 PM,$0.00,John  C. Freudenberg,35.81863005,-80.82948999
+589,"Davis Regional Medical Center Class room A & B   218 Old Mocksville rd, Statesville , NC, 28625",05/23/2019,6:00 PM - 7:00 PM,$0.00,John  C. Freudenberg,35.81863005,-80.82948999
+590,"Eastern State Hospital  1350 Bull Lea Rd, Lexington, KY, 40511",05/30/2019,12:00 PM - 1:00 PM,$0.00,Amanda M. Rist,38.08383209,-84.49810929
+591,"CHI Saint Joseph Jessamine  1250 Keene Rd, Nicholasville, KY, 40356",05/13/2019,9:00 AM - 10:30 AM,$0.00,Dan Andrews,37.90012,-84.57758
+592,"CHI Saint Joseph Jessamine  1250 Keene Rd, Nicholasville, KY, 40356",05/13/2019,11:00 AM - 12:30 PM,$0.00,Dan Andrews,37.90012,-84.57758
+593,"CHI Saint Joseph Jessamine  1250 Keene Rd, Nicholasville, KY, 40356",05/13/2019,2:00 PM - 3:30 PM,$0.00,Dan Andrews,37.90012,-84.57758
+594,"CHI Saint Joseph Jessamine  1250 Keene Rd, Nicholasville, KY, 40356",05/14/2019,9:00 AM - 10:30 AM,$0.00,Dan Andrews,37.90012,-84.57758
+595,"CHI Saint Joseph Jessamine  1250 Keene Rd, Nicholasville, KY, 40356",05/14/2019,11:00 AM - 12:30 PM,$0.00,Dan Andrews,37.90012,-84.57758
+596,"CHI Saint Joseph Jessamine  1250 Keene Rd, Nicholasville, KY, 40356",05/14/2019,2:00 PM - 3:30 PM,$0.00,Dan Andrews,37.90012,-84.57758
+597,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",05/18/2019,9:00 AM - 11:00 AM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+598,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",06/19/2019,6:00 PM - 8:00 PM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+599,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",08/22/2019,6:00 PM - 8:00 PM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+600,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",07/21/2019,2:00 PM - 4:00 PM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+601,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",10/22/2019,6:00 PM - 8:00 PM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+602,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",11/17/2019,2:00 PM - 4:00 PM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+603,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",12/11/19,6:00 PM - 8:00 PM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+604,"Stormont Vail Health   1500 SW 10th Ave, Topeka, KS, 66604",09/21/2019,9:00 AM - 11:00 AM,$0.00,Teresa Taylor,39.05296996,-95.69630999
+605,"UK Hospital Pavillion A Tower 200 7th Floor Conference Room A07.275  800 Rose Street, Lexington, KY, 40536",05/15/2019,2:00 PM - 3:00 PM,$0.00,Amanda M. Rist,38.03286362,-84.50671775
+606,"Lexington-Fayette Urban County Government  200 E. Main St. , Lexington, KY, 40507",05/23/2019,11:00 AM - 2:00 PM,$0.00,Amanda M. Rist,38.04490484,-84.49549238
+607,"University of Louisville Hospital - Ambulatory Care Building  550 S. Jackson Street, Louisville, KY, 40202",05/13/2019,6:00 PM - 7:30 PM,$0.00,Jason Smith,38.24824645,-85.74510419
+608,"Good Samaritan Hospital   520 South 7th Street , Vincennes , IN, 47591",05/30/2019,6:00 PM - 7:30 PM,$0.00,Miranda  N. Newberry ,38.67299001,-87.53405994
+609,"Good Samaritan Hospital   520 South 7th Street , Vincennes , IN, 47591",07/29/2019,6:00 PM - 7:30 PM,$0.00,Miranda  N. Newberry ,38.67299001,-87.53405994
+610,"Good Samaritan Hospital   520 South 7th Street , Vincennes , IN, 47591",10/21/2019,6:00 PM - 7:30 PM,$0.00,Miranda  N. Newberry ,38.67299001,-87.53405994
+611,"Franciscan Health Education Center  421 North Emerson Ave, Greenwood, IN, 46143",05/06/19,5:30 PM - 6:30 PM,$0.00,Christine M. Claborn,39.62419402,-86.08266782
+612,"Franciscan Health Education Center  421 North Emerson Ave, Greenwood, IN, 46143",08/15/2019,5:30 PM - 6:30 PM,$0.00,Christine M. Claborn,39.62419402,-86.08266782
+613,"Franciscan Health Education Center  421 North Emerson Ave, Greenwood, IN, 46143",11/04/19,5:30 PM - 6:30 PM,$0.00,Christine M. Claborn,39.62419402,-86.08266782
+614,"Sidney & Lois Eskenazi Hospital  720 Eskenazi Ave, Indianapolis, IN, 46202",06/25/2019,6:30 PM - 7:30 PM,$0.00,Meg D. Morris,39.77757113,-86.18294119
+615,"Byrd Fire Department  235 County Highway 13, Detroit, AL, 35552",05/13/2019,6:00 PM - 7:00 PM,$0.00,Marion L. Waldrop,34.11976536,-88.07102259
+616,"Hamilton Police Department  422 2nd Street, Hamilton, AL, 35570",05/21/2019,2:00 PM - 3:00 PM,$0.00,Marion L. Waldrop,34.1424626,-87.9953499
+617,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",05/11/19,10:00 AM - 11:00 AM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+618,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",08/19/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+619,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",05/20/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+620,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",06/17/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+621,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",07/15/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+622,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",09/16/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+623,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",10/21/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+624,"Education Building/Child Development Center  Alaska Native Tribal Health Consortium, 4115 Ambassador Drive, , Anchorage, AK, 99502",11/18/2019,5:30 PM - 7:30 PM,$0.00,Tamsin M. Kurth,61.18379561,-149.8045253
+625,"PAMC West Auditorium  3200 Providence Drive , Anchorage, AK, 99508",05/23/2019,4:00 PM - 6:00 PM,$0.00,Krista Ralls,61.18976652,-149.819093
+626,"Providence Medical Center- West Auditorium  3200 Providence Drive, Anchorage, AK, 99508",05/11/19,10:00 AM - 12:00 PM,$0.00,Krista Ralls,61.18856997,-149.81882
+627,"Providence Medical Center- West Auditorium  3200 Providence Drive, Anchorage, AK, 99508",07/13/2019,10:00 AM - 12:00 PM,$0.00,Krista Ralls,61.18856997,-149.81882
+628,"Providence Medical Center- East Auditorium  3200 Providence Drive, Anchorage, AK, 99508",08/10/19,10:00 AM - 12:00 PM,$0.00,Krista Ralls,61.18856997,-149.81882
+629,"Providence Medical Center- West Auditorium  3200 Providence Drive, Anchorage, AK, 99508",06/08/19,10:00 AM - 12:00 PM,$0.00,Krista Ralls,61.18856997,-149.81882
+630,"Bentonville High School   500 Tiger Blvd, Bentonville, AR, 72712",08/07/19,8:00 AM - 10:00 AM,$0.00,Velvet D. Shoults,36.38612052,-94.21475366
+631,"Arkansas Children's Northwest, Garden Level Conference Room  2601 Gene George Blvd, SPRINGDALE, AR, 72762",05/04/19,9:00 AM - 11:00 AM,$0.00,Marcene McVay Gillam,36.16255,-94.19013
+632,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",06/27/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+633,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",07/25/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+634,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",08/29/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+635,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",09/26/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+636,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",10/24/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+637,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",11/21/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+638,"Doctors Medical Center, Conference Center Room 3  1441 Florida Avenue, Modesto, CA, 95350",12/26/2019,6:30 PM - 8:00 PM,$0.00,Rena L. Lepard,37.66541992,-120.99675
+639,"Riverside Community Hospital - DeAnza Surgery Center Building  4444 Magnolia Ave, Riverside, CA, 92501",08/15/2019,12:00 PM - 1:00 PM,$0.00,Wendy A. McEuen,33.97588736,-117.3801181
+640,"Riverside Community Hospital - DeAnza Surgery Center Building  4444 Magnolia Ave, Riverside, CA, 92501",11/14/2019,12:00 PM - 1:00 PM,$0.00,Wendy A. McEuen,33.97588736,-117.3801181
+641,"Lukens Room   6401 Coyle  Ave  , Carmicheal , CA, 95608",07/12/19,11:00 AM - 1:00 PM,$0.00,ASHWINI  CHAND-KUMAR,38.668689,-121.3148745
+642,"Lukens Room   6401 Coyle  Ave  , Carmicheal , CA, 95608",05/10/19,11:00 AM - 1:00 PM,$0.00,ASHWINI  CHAND-KUMAR,38.668689,-121.3148745
+643,"Lukens Room   6401 Coyle  Ave  , Carmicheal , CA, 95608",09/13/2019,11:00 AM - 1:00 PM,$0.00,ASHWINI  CHAND-KUMAR,38.668689,-121.3148745
+644,"Lukens Room   6401 Coyle  Ave  , Carmicheal , CA, 95608",11/08/19,11:00 AM - 1:00 PM,$0.00,ASHWINI  CHAND-KUMAR,38.668689,-121.3148745
+645,"Spectrum Health Healthier Communities  665 Seward Ave, Grand Rapids, MI, 49504",06/13/2019,6:00 PM - 7:00 PM,$0.00,Meaghan R. Crawley,42.9727763,-85.6842952
+646,"Spectrum Health Healthier Communities  665 Seward Ave, Grand Rapids, MI, 49504",08/21/2019,6:00 PM - 7:00 PM,$0.00,Meaghan R. Crawley,42.9727763,-85.6842952
+647,"St. Joseph Mercy Ann Arbor Hospital Administration Building Room 2B45  5305 Elliot Drive, Ann Arbor, MI, 48197",07/26/2019,12:00 PM - 1:00 PM,$0.00,Matthew Budd,42.26208034,-83.65712405
+648,"St. Joseph Mercy Ann Arbor Hospital Administration Building Room 2B45  5305 Elliot Drive, Ann Arbor, MI, 48197",06/25/2019,5:30 PM - 6:30 PM,$0.00,Matthew Budd,42.26208034,-83.65712405
+649,"St. Joseph Mercy Ann Arbor Hospital Administration Building Room 2B45  5305 Elliot Drive, Ann Arbor, MI, 48197",05/16/2019,5:30 PM - 6:30 PM,$0.00,Matthew Budd,42.26208034,-83.65712405
+650,"Mercy Hospital - Heart Center, Lower Level Conference Room  4050 Coon Rapids Blvd, Coon Rapids, MN, 55433",05/30/2019,8:00 AM - 9:00 AM,$0.00,Tammy Gallagher,45.1641072,-93.31681818
+651,"Mercy Hospital - Classroom B  4050 Coon Rapids Blvd, Coon Rapids, MN, 55433",06/27/2019,12:00 PM - 1:00 PM,$0.00,Tammy Gallagher,45.18423344,-93.36935403
+652,"Ctccc  405 hwy 71 e, Clarissa, MN, 56440",05/09/19,2:00 PM - 1:00 PM,$0.00,Brian D. Yates,46.12897498,-94.94276495
+653,"Mayo Clinic  Gonda Building 5-160    200 First Street SW, Rochester, MN, 55905",05/08/19,7:30 AM - 8:30 AM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+654,"Mayo Clinic  Alfred 5-416  Saint Marys Hospital    200 First Street SW, Rochester, MN, 55905",06/19/2019,12:00 PM - 1:00 PM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+655,"Mayo Clinic  Siebens Building 4-02   200 First Street SW, Rochester, MN, 55905",07/10/19,12:00 PM - 1:00 PM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+656,"Mayo Clinic  Domatilla - MN - 144   Saint Marys Hospital    200 First Street SW, Rochester, MN, 55905",08/07/19,7:30 AM - 8:30 AM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+657,"Mayo Clinic  Gonda Building 17-104    200 First Street SW, Rochester, MN, 55905",09/18/2019,12:00 PM - 1:00 PM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+658,"Mayo Clinic  Joseph 1-242  Saint Marys Hospital    200 First Street SW, Rochester, MN, 55905",10/09/19,12:00 PM - 1:00 PM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+659,"Mayo Clinic  Gonda Building 5-160    200 First Street SW, Rochester, MN, 55905",11/05/19,7:30 AM - 8:30 AM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+660,"Mayo Clinic  Domatill - MN-144 Saint Marys Hospital   200 First Street SW, Rochester, MN, 55905",12/04/19,7:30 AM - 8:30 AM,$0.00,Gwen D. Meyer,44.02237995,-92.46699998
+661,"Saint Luke's Hospital of Kansas City-Wagstaff Room  4401 Wornall Road , Kansas City, MO, 64111",05/23/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+662,"Saint Luke's Hospital of Kansas City-Wagstaff Room  4401 Wornall Road , Kansas City, MO, 64111",06/27/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+663,"Saint Luke's Hospital of Kansas City-Hartzler Room  4401 Wornall Road , Kansas City, MO, 64111",07/25/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+664,"Saint Luke's Hospital of Kansas City-Wagstaff Room  4401 Wornall Road , Kansas City, MO, 64111",08/22/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+665,"Saint Luke's Hospital of Kansas City-Wagstaff Room  4401 Wornall Road , Kansas City, MO, 64111",09/19/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+666,"Big Cedar Lodge  190 Top of the Rock Road, Ridgedale, MO, 65739",10/02/19,1:00 PM - 2:00 PM,$0.00,Jessica  A. Giacone,36.53171992,-93.24899997
+667,"Big Cedar Lodge  190 Top of the Rock Road, Ridgedale, MO, 65739",10/02/19,3:00 PM - 4:00 PM,$0.00,Jessica  A. Giacone,36.53171992,-93.24899997
+668,"Saint Luke's Hospital of Kansas City-Wagstaff Room  4401 Wornall Road , Kansas City, MO, 64111",10/24/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+669,"Saint Luke's Hospital of Kansas City-Wagstaff Room  4401 Wornall Road , Kansas City, MO, 64111",12/19/2019,5:00 PM - 6:30 PM,$0.00,Jessica  A. Giacone,39.04665,-94.59012
+670,"SSM Health St. Joseph Hospital Lake St. Louis Koenig Building- Community Resource Room   400 Medical Plaza, Lake St. Louis, MO, 63367",05/28/2019,6:30 PM - 7:30 PM,$0.00,Sarah L. Brown,38.80322376,-90.7774531
+671,"SSM Health St. Joseph Hospital Lake St. Louis Koenig Building- Community Resource Room   400 Medical Plaza, Lake St. Louis, MO, 63367",06/25/2019,6:30 PM - 7:30 PM,$0.00,Sarah L. Brown,38.80322376,-90.7774531
+672,"SSM Health St. Joseph Hospital Lake St. Louis Koenig Building- Community Resource Room   400 Medical Plaza, Lake St. Louis, MO, 63367",07/30/2019,6:30 PM - 7:30 PM,$0.00,Sarah L. Brown,38.80322376,-90.7774531
+673,"SSM Health St. Joseph Hospital Lake St. Louis Koenig Building- Community Resource Room   400 Medical Plaza, Lake St. Louis, MO, 63367",08/27/2019,6:30 PM - 7:30 PM,$0.00,Sarah L. Brown,38.80322376,-90.7774531
+674,"SSM Health St. Joseph Hospital Lake St. Louis Koenig Building- Community Resource Room   400 Medical Plaza, Lake St. Louis, MO, 63367",09/24/2019,6:30 PM - 7:30 PM,$0.00,Sarah L. Brown,38.80322376,-90.7774531
+675,"SSM Health St. Joseph Hospital Lake St. Louis Koenig Building- Community Resource Room   400 Medical Plaza, Lake St. Louis, MO, 63367",10/29/2019,6:30 PM - 7:30 PM,$0.00,Sarah L. Brown,38.80322376,-90.7774531
+676,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",08/14/2019,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+677,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",10/17/2019,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+678,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",11/18/2019,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+679,"Mercy Hospital St. Louis- Anheuser-Busch Classroom  615 S. New Ballas Rd., St. Louis, MO, 63141",12/11/19,5:00 PM - 6:00 PM,$0.00,Virginia Siburt,38.64436,-90.44661
+680,"Clayton Avenue Building  4353 Clayton Avenue, St. Louis, MO, 63110",09/07/19,10:00 AM - 11:00 AM,$0.00,Rita Gersman,38.63292946,-90.25472289
+681,"Cass Regional  2800 E. Rock Haven Rd, Harrisonville, MO, 64701",05/07/19,5:30 PM - 7:30 PM,$0.00,Paula A. McBride,38.66336745,-94.37555227
+682,"Cass Regional  2800 E. Rock Haven Rd, Harrisonville, MO, 64701",06/04/19,5:30 PM - 7:30 PM,$0.00,Paula A. McBride,38.66336745,-94.37555227
+683,"Mary Mother of Mercy Parish  500 Greentree Road, Glassboro, NJ, 08028",05/31/2019,7:00 PM - 8:30 PM,$0.00,Stacey A. Staman,39.7190501,-75.10477527
+684,"Burlington County Emergency Services Training Center  53 Academy Dr. , Westampton, NJ, 08060",06/21/2019,9:00 AM - 11:00 AM,$0.00,Chris Sharpe,40.01939196,-74.82095588
+685,"Burlington County Emergency Services Training Center  53 Academy Dr. , Westampton, NJ, 08060",06/21/2019,1:00 PM - 3:00 PM,$0.00,Chris Sharpe,40.01939196,-74.82095588
+686,"Burlington County Emergency Services Training Center  53 Academy Dr. , Westampton, NJ, 08060",11/22/2019,9:00 AM - 11:00 AM,$0.00,Chris Sharpe,40.01939196,-74.82095588
+687,"Burlington County Emergency Services Training Center  53 Academy Dr. , Westampton, NJ, 08060",11/22/2019,1:00 PM - 3:00 PM,$0.00,Chris Sharpe,40.01939196,-74.82095588
+688,"Endeavor Emergency Squad  1309 Rancocas Rd. , Burlington , NJ, 08016",06/05/19,7:00 PM - 9:00 PM,$0.00,Chris Sharpe,40.05901772,-74.85051513
+689,"Mary McLeod Bethune Life Center   140 Martin Luther King Drive, Jersey City, NJ, 07305",05/30/2019,7:00 PM - 8:00 PM,$0.00,Jennifer Jones,40.70472229,-74.08627057
+690,"Mary McLeod Bethune Life Center   140 Martin Luther King Drive, Jersey City, NJ, 07305",06/27/2019,7:00 PM - 8:00 PM,$0.00,Jennifer Jones,40.70472229,-74.08627057
+691,"Mary McLeod Bethune Life Center   140 Martin Luther King Drive, Jersey City, NJ, 07305",07/25/2019,7:00 PM - 8:00 PM,$0.00,Jennifer Jones,40.70472229,-74.08627057
+692,"Mary McLeod Bethune Life Center   140 Martin Luther King Drive, Jersey City, NJ, 07305",08/29/2019,7:00 PM - 8:00 PM,$0.00,Jennifer Jones,40.70472229,-74.08627057
+693,"Mary McLeod Bethune Life Center   140 Martin Luther King Drive, Jersey City, NJ, 07305",09/26/2019,7:00 PM - 8:00 PM,$0.00,Jennifer Jones,40.70472229,-74.08627057
+694,"Mary McLeod Bethune Life Center   140 Martin Luther King Drive, Jersey City, NJ, 07305",10/24/2019,7:00 PM - 8:00 PM,$0.00,Jennifer Jones,40.70472229,-74.08627057
+695,"New London Hospital  273 County Road, New London, NH, 03257",05/11/19,11:00 AM - 12:30 PM,$0.00,Pamela M. Drewniak ,43.42161177,-72.00088252
+696,"New London Hospital  273 County Road, New London, NH, 03257",05/11/19,1:00 AM - 2:30 PM,$0.00,Pamela M. Drewniak ,43.42161177,-72.00088252
+697,"Wimot Community Center  67 Village Road, Wilmot, NH, 03287",05/16/2019,6:00 PM - 7:30 PM,$0.00,Pamela M. Drewniak ,43.41762039,-71.89631245
+698,"Sunapee Fire Deprtment  Rt 11, Sunapee, NH, 03782",05/23/2019,6:00 PM - 7:30 PM,$0.00,Pamela M. Drewniak ,43.3869726,-72.0853365
+699,"Parkland Medical Center  44 Birch Street, Nutfield Conference Room 102B, Derry, NH, 03038",06/20/2019,6:00 PM - 7:00 PM,$0.00,Neil A. Moore,42.8761994,-71.3186276
+700,"Dartmouth Hitchcock Medical Center-Lebanon, NH Campus Auditorium B  1 Medical Cennter Drive, Lebanon, NH, 03756",05/23/2019,4:00 PM - 5:00 PM,$0.00,Gina E. Wuertzer,43.67625006,-72.27177005
+701,"Jersey Shore University Medical Center- Lance Auditorium   1945 state route 33, Neptune , NJ, 07754",05/16/2019,5:30 PM - 6:30 PM,$0.00,christine m. frugard,40.20936,-74.04259
+702,"Crozer Chester Medical Center  1 Medical Center blvd, Upland, PA, 19013",05/23/2019,8:30 AM - 9:30 AM,$0.00,Loreen Evans,39.85608008,-75.36862995
+703,"Crozer Chester Medical Center  1 Medical center blvd, Upland, PA, 19013",05/23/2019,6:00 PM - 7:00 PM,$0.00,Loreen Evans,39.85608008,-75.36862995
+704,"CHI Health St. Francis   2620 W Faidley Ave, Grand Island, NE, 68802",05/21/2019,6:30 PM - 7:30 PM,$0.00,Kristianna Farley,40.92542,-98.3706
+705,"CHI Health St. Francis   2620 W Faidley Ave, Grand Island, NE, 68802",05/17/2019,12:30 PM - 1:30 PM,$0.00,Kristianna Farley,40.92542,-98.3706
+706,"CHI Health St. Francis   2620 W Faidley Ave, Grand Island, NE, 68802",05/15/2019,6:30 PM - 7:30 PM,$0.00,Kristianna Farley,40.92542,-98.3706
+707,"CHI Health St. Francis   2620 W Faidley Ave, Grand Island, NE, 68802",05/21/2019,1:30 PM - 2:30 PM,$0.00,Kristianna Farley,40.92542,-98.3706
+708,"CHI Health St. Francis   2620 W Faidley Ave, Grand Island, NE, 68802",05/28/2019,12:30 PM - 1:30 PM,$0.00,Kristianna Farley,40.92542,-98.3706
+709,"Parkland Medical Center  44 Birch Street, Nutfield Conference Room 102B, Derry, NH, 03038",05/23/2019,12:00 PM - 1:00 PM,$0.00,Neil A. Moore,42.8761994,-71.3186276
+710,"Parkland Medical Center  Nutfield Medical Building B, Room 102B, Derry, NH, 03038",05/23/2019,6:00 PM - 7:00 PM,$0.00,Neil A. Moore,42.9010969,-71.3238733
+711,"University Conference Center  30 Conference Center Drive, Hershey, PA, 17033",06/18/2019,5:00 PM - 6:30 PM,$0.00,Kimberly Patil,40.22168,-76.5742
+712,"University Conference Center  30 Conference Center Drive, Hershey, PA, 17033",07/11/19,5:00 PM - 6:30 PM,$0.00,Kimberly Patil,40.22168,-76.5742
+713,"University Conference Center  30 Conference Center Drive, Hershey, PA, 17033",08/21/2019,5:00 PM - 6:30 PM,$0.00,Kimberly Patil,40.22168,-76.5742
+714,"University Conference Center  30 Conference Center Drive, Hershey, PA, 17033",09/17/2019,5:00 PM - 6:30 PM,$0.00,Kimberly Patil,40.22168,-76.5742
+715,"University Conferenc Center   30 Conference Center Drive, Hershey , PA, 17033",10/30/2019,5:00 PM - 6:30 PM,$0.00,Kimberly Patil,40.22168,-76.5742
+716,"University Conference Center  30 Conference Center Drive, Hershey, PA, 17033",11/16/2019,9:00 AM - 9:30 AM,$0.00,Kimberly Patil,40.22168,-76.5742
+717,"University Conference Center  30 Conference Center Street, Hershey , PA, 17033",05/22/2019,5:00 PM - 6:30 PM,$0.00,Kimberly Patil,40.22168,-76.5742
+718,"Bucks County Public Safety/Police Training Center  1760 S. Easton Rd., Doylestown, PA, 18901",05/04/19,9:00 AM - 10:30 AM,$0.00,Meg B. Ashton,40.27733731,-75.12712424
+719,"Bucks County Public Safety/Police Training Center  1760 S. Easton Rd., Doylestown, PA, 18901",05/04/19,10:30 AM - 12:00 PM,$0.00,Meg B. Ashton,40.27733731,-75.12712424
+720,"Paoli Hospital - Potter Room - Ground floor  255 W. Lancaster Avenue, Paoli, PA, 19301",05/20/2019,6:00 PM - 8:00 PM,$0.00,Lisa M. Eckenrode,40.04210489,-75.49948545
+721,"Paoli Hospital - Potter Room - Ground Floor  255 W. Lancaster Avenue, Paoli, PA, 19301",06/18/2019,1:00 PM - 3:00 PM,$0.00,Lisa M. Eckenrode,40.04210489,-75.49948545
+722,"Paoli Hospital - Potter Room -Ground Floor  255 W. Lancaster Avenue, Paoli, PA, 19301",08/06/19,9:30 AM - 11:30 AM,$0.00,Lisa M. Eckenrode,40.04210489,-75.49948545
+723,"Geisinger Holy Spirit  503 N. 21st Street, Camp Hill, PA, 17011",05/19/2019,4:00 PM - 6:00 PM,$0.00,Sunny Goodyear,40.25329002,-76.92180995
+724,"Bethany Christian Fellowship  311 South Elmira Street, Athens, PA, 18810",06/01/19,9:00 AM - 11:00 AM,$0.00,Rodney Decker,41.95881019,-76.52260265
+725,"UPMC Hamot Auditorium  201 State Street, Erie, PA, 16550",05/23/2019,1:00 PM - 3:00 PM,$0.00,Amanda R. Alberico,42.13332006,-80.08718
+726,"Rochester General Hospital   1425 Portland Ave, Rochester, NY, 14621",05/23/2019,11:30 AM - 1:00 PM,$0.00,Bryce Bishop,43.19280993,-77.58548007
+727,"Samis Education Center B3 - The Children's Hospital at OU Medical Center  1200 North Children's Avenue, Oklahoma City, OK, 73104",06/17/2019,4:00 PM - 5:00 PM,$0.00,Lindsey Rasmussen,35.4705451,-97.507107
+728,"Samis Education Center Auditorium - The Children's Hospital at OU Medical Center  1200 North Children's Avenue, Oklahoma City, OK, 73104",08/20/2019,4:00 PM - 5:00 PM,$0.00,Lindsey Rasmussen,35.4705451,-97.507107
+729,"Samis Education Center Auditorium - The Children's Hospital at OU Medical Center  1200 North Children's Avenue, Oklahoma City, OK, 73104",10/21/2019,5:00 PM - 6:00 PM,$0.00,Lindsey Rasmussen,35.4705451,-97.507107
+730,"Samis Education Center Auditorium - The Children's Hospital at OU Medical Center  1200 North Children's Avenue, Oklahoma City, OK, 73104",12/04/19,4:00 PM - 5:00 PM,$0.00,Lindsey Rasmussen,35.4705451,-97.507107
+731,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",05/20/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+732,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",06/24/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+733,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",07/22/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+734,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",08/26/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+735,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",09/23/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+736,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",10/28/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+737,"Kettering Medical Center Trauma Program, Dining Room 3  3535 Southern Blvd., Dayton, OH, 45429",11/25/2019,7:00 PM - 8:00 PM,$0.00,Laurie Narigon,39.69680004,-84.19156006
+738,"Years Ahead Health Center  6661 Clyo Rd., Dayton, OH, 45459",09/12/19,2:00 PM - 3:00 PM,$0.00,Laurie Narigon,39.64861332,-84.13475657
+739,"Years Ahead Health Center  6661 Clyo Rd., Dayton, OH, 45459",12/09/19,9:00 AM - 10:00 AM,$0.00,Laurie Narigon,39.64861332,-84.13475657
+740,"Community Stop The Bleed at West Chester Hospital  7700 University Drive, West Chester, OH, 45069",06/20/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.35831995,-84.36730006
+741,"Community Stop The Bleed at West Chester Hospital  7700 University Drive, West Chester, OH, 45069",08/15/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.35831995,-84.36730006
+742,"Community Stop The Bleed at West Chester Hospital  7700 University Drive, West Chester, OH, 45069",10/17/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.35831995,-84.36730006
+743,"Community Stop The Bleed at West Chester Hospital  7700 University Drive, West Chester, OH, 45069",12/19/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.35831995,-84.36730006
+744,"Community Stop The Bleed at University of Cincinnati Business Center  3200 Burnet Ave, Cincinnati, OH, 45229",05/16/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.13850526,-84.5006369
+745,"Community Stop The Bleed at University of Cincinnati Business Center  3200 Burnet Ave, Cincinnati, OH, 45229",07/18/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.13850526,-84.5006369
+746,"Community Stop The Bleed at University of Cincinnati Business Center  3200 Burnet Ave, Cincinnati, OH, 45229",09/19/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.13850526,-84.5006369
+747,"Community Stop The Bleed at University of Cincinnati Business Center  3200 Burnet Ave, Cincinnati, OH, 45229",11/21/2019,7:00 PM - 9:00 PM,$0.00,Brian J. Gavitt,39.13850526,-84.5006369
+748,"Genesis Hospital  2951 Maple Avenue, Zanesville, OH, 43701",05/11/19,9:00 AM - 10:30 AM,$0.00,Rebecca Geyer,39.97587855,-82.01457987
+749,"Genesis Hospital  2951 Maple Avenue, Zanesville, OH, 43701",08/22/2019,6:00 PM - 7:30 PM,$0.00,Rebecca Geyer,39.97587855,-82.01457987
+750,"Genesis Hospital  2951 Maple Avenue, Zanesville, OH, 43701",11/09/19,9:00 AM - 10:30 AM,$0.00,Rebecca Geyer,39.97587855,-82.01457987
+751,"Maimonides Medical Center  4901 Fort Hamilton Parkway (Trauma Division: Lower Level), Brooklyn, NY, 11219",05/21/2019,12:00 PM - 1:00 PM,$0.00,Gia C. Ramsey,40.63824458,-73.99777591
+752,"Maimonides Medical Center  4901 Fort Hamilton Parkway (Trauma Division: Lower Level), Brooklyn, NY, 11219",05/21/2019,4:00 PM - 5:00 PM,$0.00,Gia C. Ramsey,40.63824458,-73.99777591
+753,"Upstate Medical University - Setnor Hall 1507  766 Irving Ave, Syracuse, NY, 13210",05/23/2019,11:00 AM - 12:00 PM,$0.00,Jerome A. Morrison,43.0404837,-76.13795009
+754,"Jacobi Medical Center - IMSAL  1400 Pelham Parkway S, Building 1, room 2W8, Bronx, NY, 10461",08/07/19,1:00 PM - 2:00 PM,$0.00,Heidi Matias ,40.85737658,-73.84631344
+755,"Jacobi Medical Center - IMSAL  1400 Pelham Parkway S, Building 1, room 2W8, Bronx, NY, 10461",05/17/2019,11:00 AM - 12:00 PM,$0.00,Heidi Matias ,40.85737658,-73.84631344
+756,"Jacobi Medical Center - IMSAL  1400 Pelham Parkway S, Building 1, room 2W8, Bronx, NY, 10461",06/06/19,11:00 AM - 12:00 PM,$0.00,Heidi Matias ,40.85737658,-73.84631344
+757,"Jacobi Medical Center - IMSAL  1400 Pelham Parkway S, Building 1, room 2W8, Bronx, NY, 10461",05/17/2019,1:00 PM - 2:00 PM,$0.00,Heidi Matias ,40.85737658,-73.84631344
+758,"Jacobi Medical Center - IMSAL  1400 Pelham Parkway S, Building 1, room 2W8, Bronx, NY, 10461",06/06/19,1:00 PM - 2:00 PM,$0.00,Heidi Matias ,40.85737658,-73.84631344
+759,"Jacobi Medical Center - IMSAL  1400 Pelham Parkway S, Building 1, room 2W8, Bronx, NY, 10461",08/07/19,11:00 AM - 12:00 PM,$0.00,Heidi Matias ,40.85737658,-73.84631344
+760,"Albany Med’s Center for Learning and Development  58 Hackett Blvd, Albany, NY, 12208",05/10/19,8:00 AM - 9:00 AM,$0.00,Lisa M. Frankoski,42.64580913,-73.77704517
+761,"Albany Med’s Center for Learning and Development  58 Hackett Blvd, Albany, NY, 12208",05/10/19,9:00 AM - 10:00 AM,$0.00,Lisa M. Frankoski,42.64580913,-73.77704517
+762,"Albany Med’s Center for Learning and Development  58 Hackett Blvd, Albany, NY, 12208",05/10/19,12:00 PM - 1:00 PM,$0.00,Lisa M. Frankoski,42.64580913,-73.77704517
+763,"Albany Med’s Center for Learning and Development  58 Hackett Blvd, Albany, NY, 12208",05/10/19,1:00 PM - 2:00 PM,$0.00,Lisa M. Frankoski,42.64580913,-73.77704517
+764,"Fairview Hospital  18101 Lorain, Cleveland, OH, 44111",05/23/2019,7:30 AM - 8:30 AM,$0.00,Bernadette Szmigielski,41.44978,-81.82306007
+765,"OhioHealth Mansfield Hospital   335 Glessner Avenue, Mansfield, OH, 44903",05/23/2019,5:30 PM - 7:00 PM,$0.00,Wendy A. Gunder,40.75261008,-82.52961998
+766,"Pharmacy Dept  272 Benedict Ave.  Norwalk, Norwalk, OH, 44857",05/15/2019,1:30 PM - 2:45 PM,$0.00,Andrea L. Wetherill,41.22717288,-82.60300495
+767,"Christ Church  23080 Royalton Road, Columbia Station, OH, 44028",05/23/2019,6:30 PM - 8:00 PM,$0.00,David Sirl,41.31249251,-81.87855994
+768,"Samaritan North Lincoln Hosptial  3043 NE 28th St, Lincoln City, OR, 97367",05/06/19,12:00 PM - 12:45 PM,$0.00,Kara M. Joll,44.98619,-123.99459
+769,"Legacy Emanuel Medical Center  2801 N. Gantenbein Ave MOB-2 East , Portland, OR, 97227",06/18/2019,4:30 PM - 6:00 PM,$0.00,Geriann M. Bartz,45.54371002,-122.66953
+770,"Legacy Emanuel Medical Center  2801 N. Gantenbein Ave MOB-2 East , Portland, OR, 97227",08/20/2019,4:30 PM - 6:00 PM,$0.00,Geriann M. Bartz,45.54371002,-122.66953
+771,"brookdale hospital  1 brookdale plaza, brooklyn, NY, 11212",05/23/2019,6:00 AM - 7:00 AM,$0.00,JUDITH LUSSIER,40.65458673,-73.91275818
+772,"brookdale hospital  1 brookdale plaza, brooklyn, NY, 11212",05/23/2019,7:00 AM - 8:00 AM,$0.00,JUDITH LUSSIER,40.65458673,-73.91275818
+773,"brookdale hospital  1 brookdale plaza, brooklyn, NY, 11212",05/23/2019,9:00 AM - 10:00 AM,$0.00,JUDITH LUSSIER,40.65458673,-73.91275818
+774,"CANCELLED Years Ahead Health Center  6661 Clyo Rd., Dayton, OH, 45459",06/11/19,1:00 PM - 2:00 PM,$0.00,Laurie Narigon,39.64861332,-84.13475657
+775,"Way Public Library   101 East Indiana Avenue, Perrysburg, OH, 43551",08/08/19,1:00 PM - 2:00 PM,$0.00,Nicole Knepper,41.55724006,-83.62753
+776,"Reno Business Park  27823 St. Route 7, Marietta, OH, 45750",05/23/2019,9:00 AM - 1:00 PM,$0.00,Barbara L. Felton,39.36510134,-81.39165733
+777,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",05/30/2019,6:30 PM - 8:00 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+778,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",06/27/2019,2:30 PM - 4:00 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+779,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",07/29/2019,2:30 PM - 4:00 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+780,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",08/29/2019,10:30 AM - 12:00 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+781,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",09/25/2019,6:30 PM - 8:30 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+782,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",10/28/2019,3:30 PM - 5:00 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+783,"St Mary Medical Center Trauma Program  1201 Langhorne-Newtown Rd., 19047, PA, 19047",11/21/2019,2:30 PM - 4:00 PM,$0.00,Meg B. Ashton,40.20218004,-74.92488001
+784,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",05/19/2019,9:00 AM - 9:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+785,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",05/22/2019,3:00 PM - 4:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+786,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",06/26/2019,9:13 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+787,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",07/31/2019,9:30 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+788,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",08/28/2019,9:14 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+789,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",09/25/2019,9:14 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+790,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",10/23/2019,9:15 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+791,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",11/27/2019,9:15 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+792,"Shippensburg Area EMS  711 East Orange Street, Shippensburg, PA, 17257",12/18/2019,9:16 AM - 10:30 AM,$0.00,Constance M. McGill,40.05762346,-77.50523833
+793,"Columbus Public Health- Dr. Teresa Long Auditorium  240 Parsons Ave., Columbus, OH, 43215",05/21/2019,9:00 AM - 10:30 AM,$0.00,Clare Fagerholm,39.95936336,-82.98189781
+794,"Columbus Public Health  240 Parsons Ave., Columbus, OH, 43215",05/21/2019,5:00 PM - 6:30 PM,$0.00,Clare Fagerholm,39.95936336,-82.98189781
+795,"East Fishkill Police Department  2468 Rte. 52, Hopewell Junction, NY, 12533",06/06/19,6:00 PM - 9:00 PM,$0.00,Jon A. Wood,41.55345997,-73.79549995
+796,"Monroe Ambulance  1669 Lyell Ave, Rochester, NY, 14606",05/20/2019,10:00 AM - 12:00 PM,$0.00,Justin Schindler,43.16459666,-77.67010534
+797,"NORRISTOWN POLICE DEPARTMENT  235 EAST AIRY STREET, NORRISTOWN, PA, 19401",05/09/19,8:00 AM - 12:00 PM,$0.00,DAVID N. MAZZA,40.11451007,-75.33938
+798,"NORRISTOWN POLICE DEPARTMENT  235 EAST AIRY STREET, NORRISTOWN, PA, 19401",05/09/19,12:00 PM - 4:00 PM,$0.00,DAVID N. MAZZA,40.11451007,-75.33938
+799,"NORRISTOWN POLICE DEPARTMENT  235 EAST AIRY STREET, NORRISTOWN, PA, 19401",05/09/19,4:00 PM - 8:00 PM,$0.00,DAVID N. MAZZA,40.11451007,-75.33938
+800,"Danbury Community Center  15 High Street, Danbury, NH, 03230",05/11/19,1:00 PM - 2:00 PM,$0.00,Jason Warn,43.52637847,-71.86449206
+801,"Danbury Community Center  15 High Street, Danbury, NH, 03230",05/11/19,10:00 AM - 11:00 PM,$0.00,Jason Warn,43.52637847,-71.86449206
+802,"Danbury Community Center  15 High Street, Danbury, NH, 03230",05/25/2019,10:00 AM - 11:00 PM,$0.00,Jason Warn,43.52637847,-71.86449206
+803,"Danbury Community Center  15 High Street, Danbury, NH, 03230",05/25/2019,1:00 PM - 2:00 PM,$0.00,Jason Warn,43.52637847,-71.86449206
+804,"Meigs  High School  42091 Pomeroy Pike , Pomeroy , OH, 45769",05/16/2019,6:00 PM - 7:30 PM,$0.00,Stacey D. Wickham,39.05913,-81.99822
+805,"Firelands Ambulance Service  25 James St, New London, OH, 44851",05/23/2019,9:00 AM - 5:00 PM,$0.00,Jeff Vanderpool,41.08640363,-82.39699744
+806,"Columbia Township Fire Department  25540 Royalton Rd., Columbia Station, OH, 44028",05/25/2019,9:00 AM - 10:30 AM,$0.00,William J. Krupa,41.31273151,-81.92617141
+807,"Loup City Community Center  803 O St, Loup City, NE, 68853",05/23/2019,7:00 PM - 9:00 PM,$0.00,Kyla J. Brown,41.27481468,-98.96886285
+808,"Chappell Nebraska  750 5th Street, Chappell, NE, 69129",05/15/2019,5:00 PM - 7:00 PM,$0.00,Polly L. Olson,41.09575445,-102.47148
+809,"Wildwood FD  4400 New Jersey Ave. , Wildwood, NJ, 08260",05/09/19,7:00 PM - 9:00 PM,$0.00,James W. Grauel,38.98631185,-74.82167763
+810,"Wildwood FD  4400 New Jersey Ave. , Wildwood, NJ, 08260",05/31/2019,2:00 PM - 4:00 PM,$0.00,James W. Grauel,38.98631185,-74.82167763
+811,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",05/04/19,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+812,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",05/14/2019,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+813,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",06/01/19,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+814,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",06/25/2019,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+815,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",07/13/2019,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+816,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",07/23/2019,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+817,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",08/10/19,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+818,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",08/20/2019,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+819,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",09/07/19,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+820,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",09/17/2019,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+821,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",10/05/19,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+822,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",10/15/2019,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+823,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",11/02/19,10:00 AM - 12:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+824,"Hope Hose Co No 2  408 Broad St, Beverly, NJ, 08010",11/12/19,7:00 PM - 9:00 PM,$0.00,Steven Meyers,40.06411696,-74.92130815
+825,"Indiana Bevarage Pavillion  70 Lafayette st, Valparaiso, IN, 46383",05/23/2019,3:00 PM - 6:00 PM,$0.00,Todd Konradi,41.46861462,-87.06219414
+826,"Poe Fire Station  3619 East Yoder Road, Fort Wayne, IN, 46819",06/23/2019,3:00 PM - 4:30 PM,$0.00,Paul H. VonBank,40.93526592,-85.08776344
+827,"Elkhart City Fire Department  500 East Street , Elkhart, IN, 46516",05/23/2019,6:00 PM - 7:30 PM,$0.00,kristi s. Sommer,41.6838251,-85.96799167
+828,"Elkhart City Fire Department  500 East Street , Elkhart, IN, 46516",05/23/2019,9:00 AM - 10:30 AM,$0.00,kristi s. Sommer,41.6838251,-85.96799167
+829,"Elkhart City Fire Department  500 East Street , Elkhart, IN, 46516",05/23/2019,11:00 AM - 12:30 PM,$0.00,kristi s. Sommer,41.6838251,-85.96799167
+830,"Elkhart City Fire Department  500 East Street , Elkhart, IN, 46516",05/23/2019,1:00 PM - 2:30 PM,$0.00,kristi s. Sommer,41.6838251,-85.96799167
+831,"Elkhart City Fire Department  500 East Street , Elkhart, IN, 46516",05/23/2019,3:00 PM - 5:30 PM,$0.00,kristi s. Sommer,41.6838251,-85.96799167
+832,"Cicero Fire Department   1359 Stringtown Pike, Cicero, IN, 46034",05/22/2019,6:00 AM - 7:30 PM,$0.00,James Ginder,40.12078837,-86.02193096
+833,"Auburn fire department   110 e 10th, Auburn, KS, 66402",05/10/19,6:00 PM - 10:00 PM,$0.00,Patrick A. Sonnier,38.90824049,-95.81579083
+834,"Edgewood Volunteer Fire Dept.  3323 Nichol Ave., Anderson, IN, 46011",05/18/2019,12:00 PM - 2:00 PM,$0.00,Stephen G. Carpenter,40.10145452,-85.73140333
+835,"Palmer Park  2829 Armour, Port Huron, MI, 48060",10/15/2019,5:00 PM - 8:00 PM,$0.00,William R. Adams,43.006296,-82.4264089
+836,"Palmer Park  2829 Armour, Port Huron, MI, 48060",11/19/2019,5:00 PM - 8:00 PM,$0.00,William R. Adams,43.006296,-82.4264089
+837,"Hyannis Fire Department  95 High School Rd. Ext., Hyannis, MA, 02601",06/01/19,11:00 AM - 12:30 PM,$0.00,Michael Medeiros,41.65360501,-70.28914952
+838,"St. Stanislaus School  534 Front Street, Chicopee, MA, 01020",05/03/19,1:00 PM - 3:00 PM,$0.00,Katherine M. Collins-Kalbaugh,42.14801998,-72.59655003
+839,"Madison Fire & Rescue   101 Mill Rd, Madison, AL, 35758",06/08/19,11:00 AM - 12:00 AM,$0.00,Michael Sedlacek,34.69941804,-86.74280148
+840,"Madison Fire & Rescue   101 Mill Rd, Madison, AL, 35758",08/10/19,11:00 AM - 12:00 AM,$0.00,Michael Sedlacek,34.69941804,-86.74280148
+841,"Madison Fire & Rescue   101 Mill Rd, Madison, AL, 35758",10/12/19,11:00 AM - 12:00 AM,$0.00,Michael Sedlacek,34.69941804,-86.74280148
+842,"Madison Fire & Rescue   101 Mill Rd, Madison, AL, 35758",12/14/2019,11:00 AM - 12:00 AM,$0.00,Michael Sedlacek,34.69941804,-86.74280148
+843,"Truro Library  7 Standish Way Truro MA 02652, Truro, MA, 02652",05/04/19,10:00 AM - 12:00 PM,$0.00,James Schermerhorn,42.03821718,-70.08771949
+844,"UMass/Amherst Police Department   585 East Pleasant St, Amherst, MA, 01003",05/23/2019,12:00 PM - 1:30 PM,$0.00,Brian  Kellogg,42.39832925,-72.51560485
+845,"UMass Police Department  585 East Pleasant St, Amherst, MA, 01003",05/23/2019,5:30 PM - 7:00 PM,$0.00,Brian  Kellogg,42.39832925,-72.51560485
+846,"Wellfleet Fire Department  10 Lawrence Rd, Wellfleet, MA, 02667",05/08/19,9:00 AM - 11:00 AM,$0.00,Justin M. Kinshaw,41.94260093,-70.02461722
+847,"Wilbraham Fire Department Headquarters  2770 Boston Road, Wilbraham, MA, 01095",05/25/2019,12:00 PM - 2:00 PM,$0.00,Lt. Matthew C. Sterling,42.1525572,-72.42485838
+848,"Eastham Town Library  190 Samoset Rd, Eastham, MA, 02642",05/18/2019,11:00 AM - 12:30 PM,$0.00,Dan Keane,41.83001744,-69.97785549
+849,"Lisle Police Department  5040 Lincoln Ave, Lisle, IL, 60532",05/23/2019,7:00 PM - 9:00 PM,$0.00,James M. Dexter,41.79401,-88.07673
+850,"Oakland University - Human Health Building Room 2018  433 Meadow Brook Road, Rochester, MI, 48309",06/19/2019,1:30 PM - 3:00 PM,$0.00,Kenneth R. Kiley,42.67238617,-83.21863578
+851,"Farmington Public Safety  23600 Liberty St, Farmington , MI, 48335",06/20/2019,6:00 PM - 8:00 PM,$0.00,James D. Wren,42.46494353,-83.37828282
+852,"Mountain House Fire Station No. 1  911 S. Tradition St, Mountain House, CA, 95391",05/25/2019,9:00 AM - 11:30 AM,$0.00,Bill Fisk,37.76640369,-121.5428442
+853,"Mountain House Fire Station No. 1  911 S. Tradition St, Mountain House, CA, 95391",05/25/2019,1:30 PM - 4:00 PM,$0.00,Bill Fisk,37.76640369,-121.5428442
+854,"Cayucos Library  310 B Street, Cayucos, CA, 93430",05/08/19,3:00 PM - 5:30 PM,$0.00,Scott B. Hunter,35.45248995,-120.90563
+855,"Hawthorne Police Department  12501 Hawthorne Blvd., Hawthorne, CA, 90250",05/18/2019,1:00 PM - 4:00 PM,$0.00,Christopher Wiley,33.91902,-118.35274
+856,"Thomaston, GA  605B West Gordon St, Thomaston, GA, 30286",05/23/2019,6:00 PM - 8:00 PM,$0.00,Martha A. McCarty,32.88710191,-84.33283277
+857,"Riverside County Fire Department Station 84  30650 Pauba Road, Temecula, CA, 92592",05/16/2019,6:00 PM - 7:00 PM,$0.00,Lia Genn,33.49657964,-117.123148
+858,"Urbandale Public Library  3520 86th St, Urbandale, IA, 50322",05/22/2019,6:00 PM - 7:00 PM,$0.00,Rob Zahnd,41.62668,-93.73655
+859,"Urbandale Public Library  3520 86th St, Urbandale, IA, 50322",05/22/2019,4:30 PM - 5:30 PM,$0.00,Rob Zahnd,41.62668,-93.73655
+860,"Urbandale Public Library  3520 86th St, Urbandale, IA, 50322",05/22/2019,3:00 PM - 4:00 PM,$0.00,Rob Zahnd,41.62668,-93.73655
+861,"Clearwater Fire Training Division, As Part of National Stop the Bleed Month 2019  1700 North Belcher Road, Clearwater, FL, 33765",05/11/19,9:00 AM - 11:00 AM,$0.00,Eric Soderlund,27.983304,-82.74642261
+862,"Polk County FIre Rescue Training Center  2470 Clower Lane , Bartow , FL, 33860",07/30/2019,6:00 PM - 7:30 PM,$0.00,Rosa M. LaLonde,27.87988481,-81.819173
+863,"Polk County FIre Rescue Training Center  2470 Clower Lane , Bartow , FL, 33860",10/29/2019,6:00 PM - 7:30 PM,$0.00,Rosa M. LaLonde,27.87988481,-81.819173
+864,"421 N. Main Street  421 N. Main St., Nashville, AR, 71852",05/03/19,1:00 PM - 2:00 PM,$0.00,Jonathan Baylon,33.94704701,-93.84709711
+865,"County Line Rural Fire Department Fire station  435 Ferguson Rd, Nashville, AR, 71852",05/13/2019,7:00 PM - 8:00 PM,$0.00,Jonathan Baylon,33.97678011,-93.94966868
+866,"Kuemper  109 S Clark, Carroll, IA, 51401",06/03/19,2:00 PM - 3:00 PM,$0.00,Marcia N. Schaefer,42.05938209,-94.86685235
+867,"Bolingbrook Fire Station 5  1900 Rodeo , Bolingbrook, IL, 60490",05/06/19,7:00 PM - 9:00 PM,$0.00,MARK A. OGLESBY,41.67808859,-88.140245
+868,"North Metro Fire Rescue  101 Spader Way, Broomfield, CO, 80020",05/18/2019,9:00 AM - 5:00 PM,$0.00,Michael McDonnell,39.91641303,-105.0671383
+869,"Harwinton EMS  166 Burlington Rd, Harwinton, CT, 06791",05/20/2019,6:00 PM - 8:30 PM,$0.00,Aaron T. Franzi,41.77370235,-73.04492735
+870,"Bantam Borough Hall  890 Bantam Road, Bantam, CT, 06750",05/19/2019,9:00 AM - 11:00 AM,$0.00,Sarah E. Curulla,41.72393699,-73.23872639
+871,"Okeechobee County Emergency Operations Center  707 NW 6th Street, Okeechobee, FL, 34972",05/14/2019,6:00 PM - 9:00 PM,$0.00,Ryan C. Hathaway,27.24896954,-80.83716364
+872,"Okeechobee County Emergency Operations Center  707 NW 6th Street, Okeechobee, FL, 34972",05/18/2019,9:00 AM - 12:00 PM,$0.00,Ryan C. Hathaway,27.24896954,-80.83716364
+873,"Clinchco Fire Department  132 Shifty Lane, Clinchco , VA, 24226",05/03/19,5:00 PM - 9:00 PM,$0.00,Bobby W. Edwards,37.15894215,-82.37385753
+874,"City Hall, Shoreline, Washington  17500 Midvale Ave N, Shoreline, WA, 98133",05/28/2019,1:30 PM - 3:00 PM,$0.00,Mary J. Kintner,47.75617576,-122.3442656
+875,"City Hall, Shoreline, Washington  17500 Midvale Ave N, Shoreline, WA, 98133",08/20/2019,10:00 AM - 11:30 AM,$0.00,Mary J. Kintner,47.75617576,-122.3442656
+876,"Westlake Volunteer Fire Department   19636 Saums Road, (New Station), Houston, TX, 77084",05/18/2019,10:00 AM - 1:00 PM,$0.00,Daniel Manusis,29.8004609,-95.71548354
+877,"Stephenville Fire Department Station #2  1301 Pecan Hill Rd., Stephenville, TX, 76401",05/04/19,10:00 AM - 12:00 PM,$0.00,Steven Jacobsen,32.21446576,-98.2442672
+878,"Virginia Beach EMS Headquarters  4160 Virginia Beach Blvd, Virginia Beach, VA, 23452",05/20/2019,9:00 AM - 11:30 AM,$0.00,John Bianco,36.84325399,-76.11787526
+879,"Virginia Beach EMS Headquarters  4160 Virginia Beach Blvd, Virginia Beach, VA, 23452",05/23/2019,9:00 AM - 11:00 AM,$0.00,John Bianco,36.84325399,-76.11787526
+880,"Virginia Beach EMS Headquarters  4160 Virginia Beach Blvd, Virginia Beach, VA, 23452",05/23/2019,3:00 PM - 5:00 PM,$0.00,John Bianco,36.84325399,-76.11787526
+881,"Virginia Beach EMS Headquarters  4160 Virginia Beach Blvd, Virginia Beach, VA, 23452",05/23/2019,6:00 PM - 8:00 PM,$0.00,John Bianco,36.84325399,-76.11787526
+882,"Virginia Beach EMS Headquarters  4160 Virginia Beach Blvd, Virginia Beach, VA, 23452",06/05/19,6:00 PM - 8:30 PM,$0.00,John Bianco,36.84325399,-76.11787526
+883,"Creeds Ruritan  1057 Princess Anne Rd, Virginia Beach, VA, 23457",06/08/19,10:30 AM - 12:30 PM,$0.00,John Bianco,36.65136252,-76.03139821
+884,"Virginia Beach EMS Headquarters  4160 Virginia Beach Blvd, Virginia Beach, VA, 23452",06/13/2019,3:00 PM - 5:00 PM,$0.00,John Bianco,36.84325399,-76.11787526
+885,"James City County Fire Administration  5077 John Tyler Highway, Williamsburg, VA, 23185",06/22/2019,9:00 AM - 11:00 AM,$0.00,Michelle L. Toutaint,37.25714879,-76.7451387
+886,"Administration Building  21201 A Morton Road, Katy, TX, 77449",05/24/2019,6:00 PM - 8:00 PM,$0.00,Joseph Casciotti,29.81504448,-95.7340422
+887,"Montgomery County Hospital District  1400 S. Loop 336 W, Conroe, TX, 77304",05/25/2019,9:00 AM - 10:00 AM,$0.00,Ashton Herring,30.2796978,-95.46620482
+888,"Montgomery County Hospital District  1400 S. Loop 336 W, Conroe, TX, 77304",05/25/2019,10:30 AM - 11:30 AM,$0.00,Ashton Herring,30.2796978,-95.46620482
+889,"Scurr County EMS Training Center  3000 Towle Park Rd, Snyder, TX, 79549",05/17/2019,6:00 PM - 8:00 PM,$0.00,Russel D. Thomas,32.69654108,-100.9275686
+890,"Stafford Police Department  2702 S. Main St, Stafford, TX, 77477",05/18/2019,8:00 PM - 9:30 PM,$0.00,Peter E. Alvarado,29.61448004,-95.55550993
+891,"Stafford Police Department  2702 S. Main St, Stafford, TX, 77477",05/18/2019,1:30 PM - 3:00 PM,$0.00,Peter E. Alvarado,29.61448004,-95.55550993
+892,"EMS Ops Classroom B  407 Ball Park Rd, Lexington, SC, 29072",06/11/19,6:00 PM - 8:00 PM,$0.00,Michael J. Beale,33.97042391,-81.28511389
+893,"Huntsville Fire Station #1   1987 Veterans Memorial Pkwy , Huntsville, TX, 77340",05/06/19,7:30 AM - 10:00 AM,$0.00,Dean J. Casburn,30.68295089,-95.55339262
+894,"Huntsville Fire Station #1   1987 Veterans Memorial Pkwy , Huntsville, TX, 77340",05/07/19,7:30 AM - 10:00 AM,$0.00,Dean J. Casburn,30.68295089,-95.55339262
+895,"Huntsville Fire Station #1   1987 Veterans Memorial Pkwy , Huntsville, TX, 77340",05/08/19,7:30 AM - 10:00 AM,$0.00,Dean J. Casburn,30.68295089,-95.55339262
+896,"OWASA  400 Jones Ferry Rd, Carrboro, NC, 27510",05/11/19,8:30 AM - 10:30 AM,$0.00,Lori A. McLamb,35.90804351,-79.08020474
+897,"Spartanburg EMS HQ training room  525 union st, Spartanburg, SC, 29303",05/14/2019,5:30 PM - 7:30 PM,$0.00,Brandon S. Moore,34.94328846,-81.91530748
+898,"Spartanburg EMS HQ training room  525 union st, Spartanburg, SC, 29303",05/23/2019,5:30 PM - 7:30 PM,$0.00,Brandon S. Moore,34.94328846,-81.91530748
+899,"Spartanburg EMS HQ  525 union st, Spartanburg, SC, 29303",05/25/2019,1:00 PM - 3:00 PM,$0.00,Brandon S. Moore,34.94328846,-81.91530748
+900,"Spartanburg EMS HQ training room  525 union st, Spartanburg , SC, 29303",05/31/2019,10:00 AM - 12:00 PM,$0.00,Brandon S. Moore,34.94328846,-81.91530748
+901,"LDS Wardhouse  1650 E Stagecoach Run, Eagle Mountain, UT, 84005",06/13/2019,7:00 PM - 8:30 PM,$0.00,Curtis S. Watkins,40.30979978,-112.0118268
+902,"Belington Volunteer Fire Department-Station 3  301 Watkins Street, Belington, WV, 26250",05/11/19,10:00 AM - 12:00 PM,$0.00,Thairon W. Holler,39.02324916,-79.93491248
+903,"Bear Lake Fire Department  7771 Lake St, Bear Lake, MI, 49614",05/23/2019,7:00 PM - 8:30 PM,$0.00,Katina M. Robinson,44.42370409,-86.14596726
+904,"Stronach Fire Department  2471 Main St, Manistee, MI, 49660",05/20/2019,6:00 PM - 8:30 PM,$0.00,Katina M. Robinson,44.21189627,-86.27416181
+905,"Wheeling Downs Racetrack and Casino  636 South Penn St., Wheeling, WV, 26003",06/03/19,9:00 AM - 11:00 AM,$0.00,Louis J. Vargo,40.0643151,-80.73054941
+906,"Summers County EMS   266 Main Street, Hinton, WV, 25951",05/10/19,6:00 PM - 8:00 PM,$0.00,Nicholas Crewey,37.6641651,-80.89423613
+907,"Cudahy City Hall  5050 S. Lake Drive, Cudahy, WI, 53110",06/13/2019,6:00 PM - 7:00 PM,$0.00,Ashley M. Haas,42.95279997,-87.85005995
+908,"Cudahy City Hall  5050 S. Lake Drive, Cudahy, WI, 53110",09/19/2019,5:00 PM - 7:00 PM,$0.00,Ashley M. Haas,42.95279997,-87.85005995
+909,"Richlands Police Department  1851 Cranwell Drive , Richlands, VA, 24641",05/23/2019,10:00 AM - 11:00 AM,$0.00,Scott V. McCormack,37.09597996,-81.79997002
+910,"Richlands Police Department  1851 Cranwell Drive , Richlands, VA, 24641",05/23/2019,2:00 PM - 3:00 PM,$0.00,Scott V. McCormack,37.09597996,-81.79997002
+911,"Richlands Police Department  1851 Cranwell Drive , Richlands, VA, 24641",05/23/2019,6:00 PM - 7:00 PM,$0.00,Scott V. McCormack,37.09597996,-81.79997002
+912,"Fort Belvoir Motorcycle Safety Center  5890 18th Street, Fort Belvoir, VA, 22060",05/07/19,7:00 PM - 9:30 PM,$0.00,Gary S. Smith,38.69128377,-77.13913289
+913,"Fairfax County Fire and Rescue Academy  4600 West Ox Road, Fairfax, VA, 22030",05/23/2019,7:00 PM - 9:30 PM,$0.00,Gary S. Smith,38.85328532,-77.37265585
+914,"Fire Station 1  130 W. St. Paul Ave, Waukesha, WI, 53188",05/23/2019,6:30 PM - 8:00 PM,$0.00,Patrick W. Rettler,43.01163312,-88.23591831
+915,"Eau Claire Fire Department Station 10  820 Malden Ave, Eau Claire, WI, 54703",05/23/2019,5:00 PM - 6:30 PM,$0.00,Karen Wright,44.82337177,-91.46683481
+916,"Eau Claire Fire Department Station 10  820 Malden Ave, Eau Claire, WI, 54703",05/23/2019,7:00 PM - 8:30 PM,$0.00,Karen Wright,44.82337177,-91.46683481
+917,"Eau Claire Fire Department Station 10  820 Malden Ave, Eau Claire, WI, 54703",05/23/2019,3:00 PM - 4:30 PM,$0.00,Karen Wright,44.82337177,-91.46683481
+918,"Greendale Health Department  5650 Parking Street, Greendale, WI, 53129",05/08/19,9:30 AM - 11:30 AM,$0.00,Ashley M. Haas,42.9410807,-87.99680203
+919,"Greendale Health Department  5650 Parking Street, Greendale, WI, 53129",05/22/2019,5:00 PM - 7:00 PM,$0.00,Ashley M. Haas,42.9410807,-87.99680203
+920,"The Château  955 Fairway Blvd, Incline Village, NV, 89451",05/13/2019,5:30 PM - 7:00 PM,$0.00,Lorenzo S. Wimmer,39.25385134,-119.9441191
+921,"Irondequoit Public Library  1290 Titus Ave, Rochester, NY, 14617",05/09/19,7:00 PM - 8:30 PM,$0.00,Lauren M. Wittman,43.21117,-77.58158
+922,"Camp Cochipiannee  291 Beach St., Goshen, CT, 06756",06/15/2019,2:00 PM - 4:00 PM,$0.00,Rebecca Burcroff,41.80936912,-73.24074112
+923,"Wex Gun Works  885 SE 6TH aVE, Delray Beach, FL, 33483",05/19/2019,10:00 AM - 2:00 PM,$20.00,Andrew T. Giamberini,26.448714,-80.06690032
+924,"Kissimmee  400 Celebration Place, Kissimmee, FL, 34746",06/16/2019,10:00 AM - 12:00 PM,$40.00,Allen Thomas,28.3286665,-81.54001396
+925,"Elkader Emergency Service Building  923 Humphrey St, Elkader, IA, 52043",05/23/2019,12:00 PM - 1:00 PM,$0.00,Ashley L. McLain,42.86522768,-91.39660281
+926,"Elkader Emergency Service Building  923 Humphrey St, Elkader, IA, 52043",05/23/2019,4:30 PM - 5:30 PM,$0.00,Ashley L. McLain,42.86522768,-91.39660281
+927,"NAS Key West  1300 Douglas Circle , Key West, FL, 33040",05/07/19,8:00 AM - 12:00 PM,$0.00,Riyadh Badrie,24.56925838,-81.75046141
+928,"NAS Key West  1300 Douglas Circle, Key West, FL, 33040",05/28/2019,8:00 AM - 12:00 PM,$0.00,Riyadh Badrie,24.56925838,-81.75046141
+929,"Survival Mindset RMI Training Center  8101 Somerset Blvd, PARAMOUNT, CA, 90723",05/07/19,5:00 PM - 6:30 PM,$20.00,Michael Riche,33.89653382,-118.1572806
+930,"Survival Mindset RMI Training Center  8101 Somerset Blvd, PARAMOUNT, CA, 90723",05/14/2019,5:00 PM - 6:30 PM,$20.00,Michael Riche,33.89653382,-118.1572806
+931,"Survival Mindset RMI Training Center  8101 Somerset Blvd, PARAMOUNT, CA, 90723",05/21/2019,5:00 PM - 6:30 PM,$20.00,Michael Riche,33.89653382,-118.1572806
+932,"Survival Mindset RMI Training Center  8101 Somerset Blvd, PARAMOUNT, CA, 90723",05/28/2019,5:00 PM - 6:30 PM,$20.00,Michael Riche,33.89653382,-118.1572806
+933,"Brenda Robertson MD Inc.  595 E. Colorado Blvd., Ste. 528, Pasadena, CA, 91101",05/29/2019,5:30 PM - 6:30 PM,$0.00,Brenda Robertson,34.1458865,-118.1380721
+934,"YMCA  766 Main St., Worcester, MA, 01610",06/15/2019,2:00 PM - 3:00 PM,$25.00,Darryl Christmas,42.25734375,-71.80898612
+935,"YMCA  766 Main St., Worcester, MA, 01610",08/17/2019,2:00 PM - 3:00 PM,$25.00,Darryl Christmas,42.25734375,-71.80898612
+936,"YMCA  766 Main St., Worcester, MA, 01610",09/21/2019,2:00 PM - 3:00 PM,$25.00,Darryl Christmas,42.25734375,-71.80898612
+937,"YMCA  766 Main St., Worcester, MA, 01610",11/02/19,2:00 PM - 3:00 PM,$25.00,Darryl Christmas,42.25734375,-71.80898612
+938,"YMCA  766 Main St., Worcester, MA, 01610",11/02/19,2:00 PM - 3:00 PM,$25.00,Darryl Christmas,42.25734375,-71.80898612
+939,"Ulster Hose Co #5 HQ  Ulster Ave, kingston, NY, 12401",05/08/19,7:00 PM - 9:00 PM,$0.00,Mathew Molinaro,41.94705629,-73.99518348
+940,"Mushin  10288 Amity Rd , Brookville, OH, 45309",05/23/2019,9:00 AM - 1:00 PM,$25.00,James Cocking,39.78902249,-84.37256134
+941,"Mushin  10288 Amity Rd , Brookville, OH, 45309",05/23/2019,5:30 PM - 8:30 PM,$25.00,James Cocking,39.78902249,-84.37256134
+942,"Ohio BWC  135 Merchant Street Training Room 2 suite 100, WEST CHESTER, OH, 45069",05/28/2019,10:00 AM - 12:30 PM,$0.00,Benjamin Hissam,39.28061523,-84.47368779
+943,"Endeavor Defense and Fitness   5040 Nike Drive, Hilliard, OH, 43026",07/20/2019,1:00 PM - 4:00 PM,$45.00,Jon Grabo,39.99399944,-83.14426475
+944,"Endeavor Defense and Fitness   5040 Nike Drive, Hilliard, OH, 43026",10/12/19,1:00 PM - 4:00 PM,$45.00,Jon Grabo,39.99399944,-83.14426475
+945,"Sherman County Courthouse  500 Court Street, Moro, OR, 97039",05/07/19,1:30 PM - 3:30 PM,$0.00,Shawn L. Payne,45.48695466,-120.7309071
+946,"Sherman County Courthouse  500 Court Street, Moro, OR, 97039",05/07/19,9:30 AM - 11:30 AM,$0.00,Shawn L. Payne,45.48695466,-120.7309071
+947,"Friendship Community Church  1090 Weirich Avenue, Washington, PA, 15301",05/05/19,2:00 PM - 4:30 PM,$0.00,Alecia R. Slider,40.16634733,-80.28872305
+948,"Carlisle Police Station  Lincoln St. Carlisle PA, Carlisle, PA, 17013",05/06/19,6:30 PM - 8:00 PM,$0.00,James E. Hurley II,40.23238605,-77.18784217
+949,"Richland Township Fire and Rescue  64 Shelly Road, Quakertown, PA, 18951",05/11/19,10:00 AM - 12:00 PM,$0.00,Michael J. McGrory,40.47868342,-75.37288627
+950,"David L. Lawrence Convention Center  1000 Fort Duquesne Blvd, Pittsburgh, PA, 15222",05/19/2019,1:30 PM - 2:20 PM,$0.00,Paul B. Callahan,40.44621,-79.9971
+951,"Bloomfield - Holcomb Fire Hall  105 Main St., Bloomfield, NY, 14469",06/18/2019,2:00 PM - 4:00 PM,$5.00,Terry H. Hall,42.89758236,-77.43258287
+952,"Bloomfield - Holcomb Fire Hall  105 Main St., Bloomfield, NY, 14469",06/12/19,2:00 AM - 4:00 PM,$0.00,Terry H. Hall,42.89758236,-77.43258287
+953,"Troy Guardian Training   2176 Co Rd 2208, Troy, AL, 36079",05/18/2019,8:00 AM - 12:00 PM,$0.00,Jacob L. Fannin,31.762359,-85.9674718
+954,"International Rescue Center  842 Camino Don Thomas, Bernalillo, NM, 87004",05/23/2019,8:00 AM - 12:00 PM,$0.00,Daniel S. Barela,35.30405287,-106.5522227
+955,"Acelero Learning-North  5809 S Packard Ave, Cudahy, WI, 53110",05/24/2019,2:30 PM - 4:30 PM,$0.00,Rachel Sadowski,42.93912155,-87.86004238
+956,"Urbanna Pool Clubhouse  8030 Urbanna Rd, Manassas, VA, 20109",05/13/2019,7:00 PM - 8:30 PM,$0.00,Andrew J. Turner Au,38.780253,-77.498865
+957,"Urbanna Pool Clubhouse  8030 Urbanna Rd, Manassas, VA, 20109",05/14/2019,7:00 PM - 8:30 PM,$0.00,Andrew J. Turner Au,38.780253,-77.498865
+958,"Urbanna Pool Clubhouse  8030 Urbanna Rd, Manassas, VA, 20109",05/15/2019,7:00 PM - 8:30 PM,$0.00,Andrew J. Turner Au,38.780253,-77.498865
+959,"Urbanna Pool Clubhouse  8030 Urbanna Rd, Manassas, VA, 20109",05/11/19,7:00 PM - 8:30 PM,$0.00,Andrew J. Turner Au,38.780253,-77.498865
+960,"Dallas Iron Fitness  4101 Bryan Street, Dallas, TX, 75204",05/29/2019,6:00 PM - 7:30 PM,$0.00,Bryan Wertz,32.79773429,-96.78091174
+961,"Dallas Iron Fitness  4101 Bryan Street, Dallas, TX, 75204",06/26/2019,6:00 PM - 7:30 PM,$0.00,Bryan Wertz,32.79773429,-96.78091174
+962,"Dallas Iron Fitness  4101 Bryan Street, Dallas, TX, 75204",07/24/2019,6:00 PM - 7:30 PM,$0.00,Bryan Wertz,32.79773429,-96.78091174
+963,"Dallas Iron Fitness  4101 Bryan Street, Dallas, TX, 75204",08/28/2019,6:00 PM - 7:30 PM,$0.00,Bryan Wertz,32.79773429,-96.78091174
+964,"Eagle Training Facility  491 Valley Ridge Blvd, Lewisville, TX, 75057",06/02/19,2:00 PM - 4:00 PM,$0.00,Bryan Wertz,33.05688132,-96.9876643
+965,"Eagle Training Facility  14400 Midway Rd, Farmers Branch, TX, 75244",06/23/2019,2:00 PM - 4:00 PM,$0.00,Bryan Wertz,32.947407,-96.83876878
+966,"Ulfhedin Tactical Solutions  6075 DeZavala RD STE-I, San Antonio, TX, 78249",05/15/2019,1:00 PM - 3:00 PM,$20.00,Derek Mack,29.56306144,-98.60469224
+967,"Rockingham County Parks & Recreation  20 East Gay Street, Harrisonburg, VA, 22802",06/13/2019,6:00 PM - 7:30 PM,$0.00,Leslie S. Ney,38.45337633,-78.8670793
