@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.4.0"
-    timestamp="1557474051323"
+    timestamp="1557476206700"
     token="-4015704188029434340"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,43 +22,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -118,9 +81,6 @@
             location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
@@ -145,5 +105,18 @@
             location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1557476156536"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/aramamoo/Downloads/My_App/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1557476206700"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

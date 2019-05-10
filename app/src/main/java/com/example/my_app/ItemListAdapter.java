@@ -18,6 +18,7 @@ public class ItemListAdapter extends ArrayAdapter<String[]>{
 
     public ItemListAdapter(Context context,int vg,int id, List<String[]> items){
         super(context,id,items);
+        groupid=vg;
         String lg,dg ,tg,fg,ig; //String lg,String dg ,String tg,String fg,String ig,  *was there
         this.context=context;
         this.items=items;
