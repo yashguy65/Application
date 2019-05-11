@@ -5021,7 +5021,8 @@ public final class R {
     public static final int ic_launcher_round=0x7f0d0001;
   }
   public static final class raw {
-    public static final int data=0x7f0e0000;
+    public static final int classes=0x7f0e0000;
+    public static final int geoadr=0x7f0e0001;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0f0000;
