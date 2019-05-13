@@ -3,10 +3,10 @@
     abi="x86"
     api-level="25"
     build-mode="FULL"
-    density="xhdpi"
+    density="420dpi"
     format="10"
     plugin-version="3.4.0"
-    timestamp="1557725018015"
+    timestamp="1557744944996"
     token="-534540740692588047"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,7 +18,7 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1622" />
     <task
         name="verifier"
         duration="0" />
@@ -28,6 +28,9 @@
         type="RESOURCES" />
     <artifact
         location="C:\Users\91776\Documents\GitHub\Application\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\91776\Documents\GitHub\Application\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
         type="SPLIT" />
 
 </instant-run>

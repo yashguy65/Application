@@ -1,6 +1,7 @@
 package com.example.my_app;
 
 import android.content.Intent;
+import android.support.design.widget.TextInputEditText;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -32,8 +33,12 @@ public class Login_Activity extends AppCompatActivity implements View.OnClickLis
     public void onClick(View v) {
         switch(v.getId()){
             case R.id.btnlogin:
-               doLogin(etUsername.getText().toString(),etPassword.getText().toString());
-                break;
+
+                if ((etUsername.getText().toString().equals("") ||etPassword.getText().toString().equals("") )){
+                    break; }
+                else{doLogin(etUsername.getText().toString(),etPassword.getText().toString());
+               System.out.println(etUsername.getText());
+                break;}
             case R.id.registerLink:
                 startActivity(new Intent(this, register.class));
                 break;
@@ -41,10 +46,14 @@ public class Login_Activity extends AppCompatActivity implements View.OnClickLis
 
     }
     private void doLogin(String userName,String password){
+        System.out.println(JSONresult);
+
         if (Utils.checkLoginCredentials(JSONresult, userName,password)){
+            System.out.println(etPassword);
             startActivity(new Intent(this, Dashboard.class));
         }
         else{
+            System.out.println("lol__q");
             // Add error message
         }
     }

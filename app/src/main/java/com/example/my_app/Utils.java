@@ -15,24 +15,29 @@ import java.security.NoSuchAlgorithmException;
 public class Utils {
 
     public static boolean checkLoginCredentials(String result, String userName, String password){
-
-        boolean status = false;
         String md5UserName = getMd5(userName);
         String md5Password = getMd5(password);
-
+        boolean status = false;
             try{
+
                 JSONArray jsonArray = new JSONArray(result);
-                for (int i = 0; i < jsonArray.length() ; i++) {
+                System.out.println(jsonArray);
+                for (int i = 0; i <jsonArray.length(); i++) {
+                    System.out.println(md5Password+"   "+md5UserName);
+                    System.out.println(i);
                     JSONObject jsonObject = jsonArray.getJSONObject(i);
+                    System.out.println(jsonObject);
+                    //JSONArray jsonArray1 = jsonArray.getJSONArray(i);
                     if( jsonObject.getString("username").equals(md5UserName) &&  jsonObject.getString("password").equals(md5Password)  ) {
-                            status = true;
+                        System.out.println(" It is true but not shown "+md5Password+md5UserName);
+                        status = true;
                         break;
                     }
                 }
             }catch (JSONException je){
                 je.printStackTrace();
             }
-
+        System.out.println(status);
         return status;
     }
     public static String getJSONFromAssets(Context context) {
@@ -51,7 +56,7 @@ public class Utils {
         }
         return re;
     }
-    private static String getMd5(String input)
+    public  static String getMd5(String input)
     {
         try {
             MessageDigest md = MessageDigest.getInstance("MD5");

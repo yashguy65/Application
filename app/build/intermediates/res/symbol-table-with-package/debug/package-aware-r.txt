@@ -833,6 +833,7 @@ dimen fab_margin
 dimen fastscroll_default_thickness
 dimen fastscroll_margin
 dimen fastscroll_minimum_range
+dimen font_size
 dimen highlight_alpha_material_colored
 dimen highlight_alpha_material_dark
 dimen highlight_alpha_material_light
@@ -1026,6 +1027,7 @@ drawable ic_menu_slideshow
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable logo_solid
 drawable logo_splash
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
@@ -1042,6 +1044,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable round
 drawable side_nav_bar
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1119,6 +1122,7 @@ id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id etPassword
+id etPassword_re
 id etUsername
 id exitUntilCollapsed
 id expand_activities_button
@@ -1319,6 +1323,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout action
 layout activity_dashboard
 layout activity_login_
 layout activity_main
