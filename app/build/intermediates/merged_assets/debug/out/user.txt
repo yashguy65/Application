@@ -1,0 +1,26 @@
+[
+ {
+   "username": "AF80E83AAC905456E5ECDF7BDF306CEA",
+   "password": "5E76AA5A0416F31A7F900A3FB05B3B00",
+   "coursesEnrolled": [
+     "1",
+     "2"
+   ]
+ },
+ {
+   "username": "abhay",
+   "password": "abhay123$",
+   "coursesEnrolled": [
+     "1",
+     "2"
+   ]
+ },
+ {
+   "username": "abhay",
+   "password": "abhay123$",
+   "coursesEnrolled": [
+     "1",
+     "2"
+   ]
+ }
+]

@@ -18,9 +18,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.my_app.Splash_Screen" />
+        <activity android:name="com.example.my_app.Dashboard" />
         <activity android:name="com.example.my_app.register" />
-        <activity android:name="com.example.my_app.Dashboard" >
+        <activity android:name="com.example.my_app.Splash_Screen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

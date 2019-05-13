@@ -1,11 +1,19 @@
 #Internal package file, do not edit.
-#Mon May 13 10:41:50 IST 2019
+#Mon May 13 13:16:15 IST 2019
 1.base=C\:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.path=classes.txt
 0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\merged_assets\\debug\\out
+3.set=ASSET
+2.set=ASSET
 1.baseType=DIRECTORY
-count=2
+3.path=user.txt
+count=4
 1.set=DEX
 0.path=classes.dex
+3.base=C\:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\merged_assets\\debug\\out
 0.set=DEX
 0.base=C\:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.baseType=DIRECTORY
 1.path=classes.dex

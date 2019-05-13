@@ -43,10 +43,10 @@ public class Dashboard extends AppCompatActivity {
     }
 
 
-    protected void onPostExecute (String result){
+    protected void onPostExecute (String json){
         try {
-            if (result != null) {
-                JSONObject Json = new JSONObject(result);
+            if (json != null) {
+                JSONObject Json = new JSONObject(json);
                 JSONArray JsonArr = Json.getJSONArray("features");
                 for (int i = 0; i < JsonArr.length(); i++) {
                     JSONObject jsonObject = null;
