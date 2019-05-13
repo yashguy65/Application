@@ -15,6 +15,8 @@ anim design_bottom_sheet_slide_in
 anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
+anim load_down_anim
+anim load_up_anim
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1365,7 +1367,6 @@ menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw classes
-raw geoadr
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

@@ -11,9 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.example.my_app.Dashboard"></activity>
+        <activity android:name="com.example.my_app.Splash_Screen"></activity>
         <activity android:name="com.example.my_app.register" />
-        <activity android:name="com.example.my_app.Splash_Screen">
+        <activity android:name="com.example.my_app.Dashboard">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,7 +28,6 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.my_app.MainActivity" />
-        <activity android:name="com.example.my_app.dashboard" />
     </application>
 
 </manifest>

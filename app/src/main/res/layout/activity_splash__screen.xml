@@ -13,6 +13,6 @@
         android:background="#FA3C3B"
         android:minWidth="0dp"
         android:minHeight="0dp"
-        android:src="@drawable/Logo" />
+        android:src="@drawable/logo_splash" />
 
 </RelativeLayout>

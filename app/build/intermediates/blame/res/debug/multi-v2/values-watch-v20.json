@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/aramamoo/Downloads/My_App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "C:\\Users\\91776\\Documents\\GitHub\\Application\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/aramamoo/.gradle/caches/transforms-2/files-2.1/2f7447911c983dd4b29d63f530a8f50e/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "C:\\Users\\91776\\.gradle\\caches\\transforms-2\\files-2.1\\8f45e486e8e81a7fce4e980029ac395b\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
