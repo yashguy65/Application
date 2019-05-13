@@ -42,7 +42,7 @@ public class Login_Activity extends AppCompatActivity implements View.OnClickLis
     }
     private void doLogin(String userName,String password){
         if (Utils.checkLoginCredentials(JSONresult, userName,password)){
-            startActivity(new Intent(this, MainActivity.class));
+            startActivity(new Intent(this, Dashboard.class));
         }
         else{
             // Add error message
