@@ -82,18 +82,18 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\91776\.gra
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:12:9-40
-activity#com.example.my_app.Dashboard
-ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:9-74
+activity#com.example.my_app.Splash_Screen
+ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:9-78
 	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:19-62
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:14:19-66
 activity#com.example.my_app.Login_Activity
 ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:15:9-70
 	android:name
 		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:15:19-67
-activity#com.example.my_app.Splash_Screen
+activity#com.example.my_app.Dashboard
 ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:19-66
+		ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:16:19-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\91776\Documents\GitHub\Application\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN

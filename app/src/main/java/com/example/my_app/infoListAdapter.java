@@ -20,6 +20,7 @@ public class infoListAdapter extends ArrayAdapter<Info> {
     private Context mContext;
     private int mResource;
     private int lastPosition = -1;
+    private ArrayList<Info> listofobjects = new ArrayList<>();
 
     /**
      * Holds variables in a View
@@ -32,6 +33,11 @@ public class infoListAdapter extends ArrayAdapter<Info> {
         TextView instructor;
     }
 
+    @Override
+    public int getCount() {
+        return listofobjects.size();
+    }
+
     /**
      * Default constructor for the PersonListAdapter
      * @param context
@@ -42,6 +48,7 @@ public class infoListAdapter extends ArrayAdapter<Info> {
         super(context, resource, objects);
         mContext = context;
         mResource = resource;
+        listofobjects = objects;
     }
 
     @NonNull

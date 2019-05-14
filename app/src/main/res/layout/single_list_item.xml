@@ -3,42 +3,38 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical">
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:id="@+id/location"
-        android:layout_marginLeft="@dimen/single_item_margin" />
+        android:id="@+id/location" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:id="@+id/date"
-        android:layout_marginLeft="@dimen/single_item_margin" />
+        android:id="@+id/date" />
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:id="@+id/time"
-        android:layout_marginLeft="@dimen/single_item_margin" />
+        android:id="@+id/time" />
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:id="@+id/fee"
-        android:layout_marginLeft="@dimen/single_item_margin" />
+        android:id="@+id/fee" />
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:id="@+id/instructor"
-        android:layout_marginLeft="@dimen/single_item_margin" />
+        android:id="@+id/instructor" />
+    </LinearLayout>
 
 </LinearLayout>
